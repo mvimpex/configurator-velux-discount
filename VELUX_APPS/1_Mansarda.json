@@ -1,0 +1,5146 @@
+{
+  "GGL 3066": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "BK04": 14967.99,
+      "CK01": 13523.98,
+      "CK02": 13703.98,
+      "CK04": 14604.02,
+      "CK06": 16227.99,
+      "FK04": 16227.99,
+      "FK06": 16952.0,
+      "FK08": 18572.0,
+      "MK04": 16587.99,
+      "MK06": 18032.0,
+      "MK08": 19296.02,
+      "MK10": 22359.98,
+      "MK12": 25423.99,
+      "MK27": 20376.01,
+      "PK04": 18932.0,
+      "PK06": 21096.01,
+      "PK08": 22539.98,
+      "PK10": 24343.99,
+      "PK25": 20736.01,
+      "SK01": 21096.01,
+      "SK06": 22179.98,
+      "SK08": 24703.99,
+      "SK10": 27408.0,
+      "UK04": 22719.98,
+      "UK08": 27588.0,
+      "UK10": 31015.98
+    }
+  },
+  "GGL 3166": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "BK04": 25443.98,
+      "CK02": 23295.98,
+      "CK04": 24832.01,
+      "CK06": 27588.0,
+      "FK04": 27588.0,
+      "FK06": 28816.0,
+      "FK08": 31576.01,
+      "MK04": 28203.99,
+      "MK06": 30655.98,
+      "MK08": 32800.0,
+      "MK10": 38012.0,
+      "MK12": 43224.01,
+      "MK27": 34639.98,
+      "PK04": 32187.98,
+      "PK06": 35864.01,
+      "PK08": 38320.02,
+      "PK10": 41383.98,
+      "PK25": 35251.99,
+      "SK01": 35864.01,
+      "SK06": 37703.99,
+      "SK08": 41996.0,
+      "SK10": 46595.99,
+      "UK04": 38624.02,
+      "UK08": 46899.99,
+      "UK10": 52724.01
+    }
+  },
+  "GGL 2066": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/d430e-3c52d-5c401_Master?v=a2045c1a",
+    "variante": {
+      "CK01": 13523.98,
+      "CK04": 14604.02,
+      "FK08": 18572.0,
+      "MK04": 16587.99,
+      "MK10": 22359.98,
+      "MK12": 25423.99,
+      "PK04": 18932.0,
+      "PK08": 22539.98,
+      "PK10": 24343.99,
+      "SK06": 22179.98,
+      "SK10": 27408.0,
+      "UK08": 27588.0,
+      "UK10": 31015.98
+    }
+  },
+  "GGL 3366": {
+    "descriere": "FEREASTRA DE MANSARDA, Ti-Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "CK02": 23295.98,
+      "CK04": 24832.01,
+      "CK06": 27588.0,
+      "FK06": 28816.0,
+      "FK08": 31576.01,
+      "MK04": 28203.99,
+      "MK06": 30655.98,
+      "MK08": 32800.0,
+      "MK12": 43224.01,
+      "MK27": 34639.98,
+      "PK06": 35864.01,
+      "PK08": 38320.02,
+      "PK10": 41383.98,
+      "PK25": 35251.99,
+      "SK06": 37703.99,
+      "SK08": 41996.0,
+      "SK10": 46595.99,
+      "UK08": 46899.99
+    }
+  },
+  "GGL 2166": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d430e-3c52d-5c401_Master?v=a2045c1a",
+    "variante": {
+      "MK10": 38012.0,
+      "UK10": 52724.01
+    }
+  },
+  "GGL 3068": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "BK04": 13364.01,
+      "CK01": 12075.99,
+      "CK02": 12236.0,
+      "CK04": 13039.98,
+      "CK06": 14491.98,
+      "FK04": 14491.98,
+      "FK06": 15135.99,
+      "FK08": 16584.02,
+      "MK04": 14812.0,
+      "MK06": 16100.02,
+      "MK08": 17227.98,
+      "MK10": 19963.98,
+      "MK12": 22699.99,
+      "MK27": 18192.01,
+      "PK04": 16903.99,
+      "PK06": 18836.02,
+      "PK08": 20123.99,
+      "PK10": 21736.0,
+      "PK25": 18516.0,
+      "SK01": 18836.02,
+      "SK06": 19804.02,
+      "SK08": 22055.98,
+      "SK10": 24472.01,
+      "UK04": 20288.02,
+      "UK08": 24632.02,
+      "UK10": 27692.01
+    }
+  },
+  "GGL 2068": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/d430e-3c52d-5c401_Master?v=a2045c1a",
+    "variante": {
+      "CK02": 12236.0,
+      "MK04": 14812.0,
+      "MK12": 22699.99,
+      "PK04": 16903.99,
+      "SK06": 19804.02
+    }
+  },
+  "GGL 3070": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "BK04": 10692.0,
+      "CK01": 9660.01,
+      "CK02": 9787.98,
+      "CK04": 10431.99,
+      "CK06": 11591.99,
+      "FK04": 11591.99,
+      "FK06": 12107.99,
+      "FK08": 13267.99,
+      "MK04": 11847.98,
+      "MK06": 12880.01,
+      "MK08": 13780.01,
+      "MK10": 15972.0,
+      "MK12": 18160.02,
+      "PK04": 13523.98,
+      "PK06": 15067.98,
+      "PK08": 16100.02,
+      "PK10": 17387.99,
+      "PK25": 14812.0,
+      "SK01": 15067.98,
+      "SK06": 15843.98,
+      "SK08": 17643.98,
+      "SK10": 19576.01,
+      "UK04": 16227.99,
+      "UK08": 19708.0,
+      "UK10": 22152.0,
+      "UK06": 17643.98
+    }
+  },
+  "GGL 2070": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/d430e-3c52d-5c401_Master?v=a2045c1a",
+    "variante": {
+      "CK01": 9660.01,
+      "CK02": 9787.98,
+      "CK04": 10431.99,
+      "CK06": 11591.99,
+      "FK04": 11591.99,
+      "FK06": 12107.99,
+      "FK08": 13267.99,
+      "MK04": 11847.98,
+      "MK06": 12880.01,
+      "MK08": 13780.01,
+      "MK10": 15972.0,
+      "MK12": 18160.02,
+      "PK06": 15067.98,
+      "PK08": 16100.02,
+      "PK10": 17387.99,
+      "PK25": 14812.0,
+      "SK01": 15067.98,
+      "SK06": 15843.98,
+      "SK08": 17643.98,
+      "SK10": 19576.01,
+      "UK04": 16227.99,
+      "UK08": 19708.0,
+      "UK10": 22152.0
+    }
+  },
+  "GGL 3170": {
+    "descriere": "FEREASTRA DE MANSARDA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "CK02": 16640.02,
+      "CK04": 17735.99,
+      "CK06": 19708.0,
+      "FK04": 19708.0,
+      "FK06": 20583.99,
+      "FK08": 22551.98,
+      "MK06": 21896.01,
+      "MK10": 27152.01,
+      "PK04": 22991.98,
+      "PK06": 25620.01,
+      "PK08": 27371.99,
+      "PK10": 29560.01,
+      "SK06": 26931.99,
+      "SK08": 29996.0,
+      "SK10": 33279.99,
+      "UK04": 27588.0,
+      "UK08": 33500.01,
+      "UK10": 37659.99
+    }
+  },
+  "GGL 3370": {
+    "descriere": "FEREASTRA DE MANSARDA, Ti-Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "CK04": 17735.99
+    }
+  },
+  "GGL 3062": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/f9bf4-7797d-60415_Master?v=99b3ca17",
+    "variante": {
+      "CK02": 17032.01,
+      "CK04": 18151.98,
+      "CK06": 20172.01,
+      "FK04": 20172.01,
+      "FK06": 21067.99,
+      "FK08": 23083.99,
+      "MK04": 20620.0,
+      "MK06": 22412.01,
+      "MK08": 23980.02,
+      "MK10": 27787.99,
+      "PK04": 23531.98,
+      "PK06": 26220.02,
+      "PK08": 28016.0,
+      "PK10": 30256.0,
+      "SK01": 26220.02,
+      "SK06": 27563.99,
+      "SK08": 30703.99
+    }
+  },
+  "GGU 0066": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 17132.0,
+      "CK04": 18256.0,
+      "CK06": 20288.02,
+      "FK04": 20288.02,
+      "FK06": 21188.02,
+      "FK08": 23215.98,
+      "MK04": 20736.01,
+      "MK06": 22539.98,
+      "MK08": 24115.98,
+      "MK10": 27948.0,
+      "PK06": 26372.0,
+      "PK08": 28176.01,
+      "PK10": 30428.02,
+      "SK06": 27724.0,
+      "SK08": 30880.02,
+      "UK04": 28400.01,
+      "UK08": 34488.0,
+      "SK10": 34259.99,
+      "UK10": 38768.01
+    }
+  },
+  "GGU 0166": {
+    "descriere": "FEREASTRA DE MANSARDA, PU, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 29120.01,
+      "CK04": 31036.02,
+      "CK06": 34488.0,
+      "FK04": 34488.0,
+      "FK06": 36020.01,
+      "FK08": 39468.02,
+      "MK04": 35251.99,
+      "MK06": 38320.02,
+      "MK08": 40999.98,
+      "MK10": 47516.02,
+      "PK06": 44832.0,
+      "PK08": 47896.01,
+      "PK10": 51727.98,
+      "SK06": 47132.02,
+      "SK08": 52496.0,
+      "UK04": 48280.02,
+      "UK08": 58627.98
+    }
+  },
+  "GGU 0366": {
+    "descriere": "FEREASTRA DE MANSARDA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 29120.01,
+      "MK04": 35251.99,
+      "MK06": 38320.02,
+      "MK08": 40999.98,
+      "PK06": 44832.0
+    }
+  },
+  "GGU 0068": {
+    "descriere": "FEREASTRA DE MANSARDA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 15296.0,
+      "CK04": 16300.01,
+      "CK06": 18112.01,
+      "FK04": 18112.01,
+      "FK06": 18915.98,
+      "FK08": 20727.98,
+      "MK04": 18516.0,
+      "MK06": 20123.99,
+      "MK08": 21532.0,
+      "MK10": 24956.01,
+      "PK06": 23548.0,
+      "PK08": 25156.0,
+      "PK10": 27167.98,
+      "SK06": 24752.0,
+      "SK08": 27571.98,
+      "UK08": 30791.98,
+      "SK10": 30591.99,
+      "UK10": 34616.02
+    }
+  },
+  "GGU 0069": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 15908.02
+    }
+  },
+  "GGU 0070": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 12236.0,
+      "CK04": 13039.98,
+      "CK06": 14491.98,
+      "FK04": 14491.98,
+      "FK06": 15135.99,
+      "FK08": 16584.02,
+      "MK04": 14812.0,
+      "MK06": 16100.02,
+      "MK08": 17227.98,
+      "MK10": 19963.98,
+      "PK06": 18836.02,
+      "PK08": 20123.99,
+      "PK10": 21736.0,
+      "SK06": 19804.02,
+      "SK08": 22055.98,
+      "UK04": 20288.02,
+      "UK08": 24632.02,
+      "SK10": 24472.01,
+      "UK10": 27692.01
+    }
+  },
+  "GGU 0170": {
+    "descriere": "FEREASTRA DE MANSARDA, PU, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 20800.0,
+      "CK04": 22168.02,
+      "CK06": 24632.02,
+      "FK04": 24632.02,
+      "FK06": 25727.99,
+      "FK08": 28191.98,
+      "MK04": 25180.0,
+      "MK06": 27371.99,
+      "MK08": 29283.98,
+      "MK10": 33940.02,
+      "PK06": 32024.01,
+      "PK08": 34212.02,
+      "PK10": 36947.98,
+      "SK06": 33663.99,
+      "SK08": 37496.01,
+      "UK04": 34488.0,
+      "UK08": 41876.02
+    }
+  },
+  "GGU 0370": {
+    "descriere": "FEREASTRA DE MANSARDA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "FK04": 24632.02,
+      "FK08": 28191.98,
+      "MK04": 25180.0,
+      "MK10": 33940.02
+    }
+  },
+  "GGU 0070Q": {
+    "descriere": "FEREASTRA DE MANSARDA, ANTIEFRACTIE",
+    "imagine": "https://contenthub.velux.com/api/public/content/f308b-93e48-be4d1_Master?v=31ed3826",
+    "variante": {
+      "FK06": 19676.0,
+      "SK06": 25744.01,
+      "UK04": 26372.0
+    }
+  },
+  "GGU 0062": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "CK02": 21291.98,
+      "CK04": 22692.0,
+      "CK06": 25212.0,
+      "FK04": 25212.0,
+      "FK06": 26332.02,
+      "FK08": 28855.98,
+      "MK04": 25771.98,
+      "MK06": 28016.0,
+      "MK08": 29976.01,
+      "MK10": 34736.0,
+      "PK06": 32776.0,
+      "PK08": 35016.0,
+      "PK10": 37820.0,
+      "SK06": 34456.01,
+      "SK08": 38379.99
+    }
+  },
+  "GGU 0362": {
+    "descriere": "FEREASTRA DE MANSARDA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/26dd6-48cc8-364eb_Master?v=277fdce8",
+    "variante": {
+      "MK08": 50956.0
+    }
+  },
+  "GLL 1061": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/bb987-1fac6-454f9_Master?v=7adfd1c0",
+    "variante": {
+      "CK02": 8539.99,
+      "CK04": 9100.02,
+      "FK04": 10112.02,
+      "FK06": 10560.01,
+      "FK08": 11572.0,
+      "MK04": 10336.01,
+      "MK06": 11236.01,
+      "MK08": 12024.01,
+      "MK10": 13931.99,
+      "PK06": 13148.01,
+      "PK08": 14043.99,
+      "SK06": 13819.99,
+      "SK08": 15392.02
+    }
+  },
+  "GLL 1064": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/10000-32d90-3a440_Master?v=4c9e2e68",
+    "variante": {
+      "CK02": 9820.02,
+      "CK04": 10468.0,
+      "FK04": 11628.0,
+      "FK06": 12148.01,
+      "FK08": 13308.02,
+      "MK04": 11888.01,
+      "MK06": 12919.99,
+      "MK08": 13824.01,
+      "MK10": 16023.98,
+      "PK06": 15120.01,
+      "PK08": 16152.0,
+      "SK06": 15891.99,
+      "SK08": 17703.99
+    }
+  },
+  "GLL 1085": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/10000-32d90-3a440_Master?v=4c9e2e68",
+    "variante": {
+      "CK02": 12808.0,
+      "FK06": 15843.98,
+      "MK04": 15504.02,
+      "MK06": 16855.98,
+      "MK08": 18032.0,
+      "MK10": 20899.99,
+      "PK08": 21067.99,
+      "SK08": 23088.01
+    }
+  },
+  "GLU 0051": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/431d4-9bc23-484f4_Master?v=af1ce08f",
+    "variante": {
+      "CK02": 8300.02,
+      "FK06": 10268.01,
+      "FK08": 11248.01,
+      "MK04": 10047.99,
+      "MK06": 10920.01,
+      "MK08": 11684.0,
+      "MK10": 13544.01,
+      "SK08": 14964.02
+    }
+  },
+  "GLU 0061": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/fdbe7-d68a5-87449_Master?v=213d68f3",
+    "variante": {
+      "CK02": 10248.02,
+      "FK06": 12676.01,
+      "FK08": 13887.99,
+      "MK04": 12404.0,
+      "MK06": 13484.0,
+      "MK08": 14427.99,
+      "MK10": 16720.02,
+      "PK08": 16855.98,
+      "SK08": 18472.01,
+      "CK04": 10920.01
+    }
+  },
+  "GLU 0064": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/9d691-c36f3-6b430_Master?v=ee4d5bbc",
+    "variante": {
+      "CK02": 11784.0,
+      "FK06": 14576.0,
+      "FK08": 15972.0,
+      "MK04": 14264.01,
+      "MK06": 15504.02,
+      "MK08": 16592.0,
+      "MK10": 19228.01,
+      "PK08": 19384.01,
+      "SK08": 21244.02,
+      "CK04": 12559.99
+    }
+  },
+  "GLU 0085": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/fdbe7-d68a5-87449_Master?v=213d68f3",
+    "variante": {
+      "CK02": 15371.99,
+      "FK06": 19012.0,
+      "MK04": 18608.01,
+      "MK06": 20223.99,
+      "MK08": 21639.98,
+      "MK10": 25080.01,
+      "PK08": 25280.0,
+      "SK08": 27707.98
+    }
+  },
+  "GZL 1051": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/ef70e-aca4c-184b1_Master?v=c5bfb99b",
+    "variante": {
+      "CK02": 6916.02,
+      "CK04": 7372.0,
+      "FK04": 8191.99,
+      "FK06": 8556.01,
+      "FK08": 9376.0,
+      "MK04": 8371.99,
+      "MK06": 9100.02,
+      "MK08": 9740.02,
+      "MK10": 11283.98,
+      "PK06": 10648.0,
+      "PK08": 11375.98,
+      "SK06": 11195.98,
+      "SK08": 12467.99
+    }
+  },
+  "GGL 207021": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d7bc-29877-b84b0_Master?v=aa918bfe",
+    "variante": {
+      "MK06": 23991.98,
+      "MK08": 24892.02,
+      "CK04": 21544.0,
+      "CK06": 22704.0,
+      "FK08": 24380.0,
+      "PK04": 24635.99,
+      "PK08": 27211.98,
+      "UK08": 30820.01,
+      "UK10": 33264.01
+    }
+  },
+  "GGL 307021": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "MK08": 24892.02,
+      "BK04": 21804.01,
+      "CK02": 20899.99,
+      "CK04": 21544.0,
+      "CK06": 22704.0,
+      "FK04": 22704.0,
+      "FK06": 23220.0,
+      "FK08": 24380.0,
+      "MK04": 22959.99,
+      "MK06": 23991.98,
+      "MK10": 27084.01,
+      "PK06": 26180.0,
+      "PK08": 27211.98,
+      "PK10": 28500.0,
+      "SK06": 26955.99,
+      "SK08": 28755.99,
+      "SK10": 30688.02,
+      "UK04": 27340.0,
+      "UK08": 30820.01,
+      "UK10": 33264.01
+    }
+  },
+  "GGU 006621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "MK08": 35227.99,
+      "CK02": 28244.01,
+      "CK04": 29368.01,
+      "CK06": 31399.98,
+      "FK04": 31399.98,
+      "FK06": 32299.98,
+      "FK08": 34327.99,
+      "MK04": 31848.02,
+      "MK06": 33651.99,
+      "MK10": 39060.01,
+      "PK06": 37484.01,
+      "PK08": 39288.02,
+      "PK10": 41539.98,
+      "SK06": 38836.01,
+      "SK08": 41991.99,
+      "UK04": 39512.02,
+      "UK08": 45600.01,
+      "SK10": 45372.0,
+      "UK10": 49880.02
+    }
+  },
+  "GGL 306640D": {
+    "descriere": "FEREASTRA DE MANSARDA, EVACUARE FUM",
+    "imagine": "https://contenthub.velux.com/api/public/content/c30fe-f196e-7343f_Master?v=dde95ea2",
+    "variante": {
+      "MK04": 27452.0,
+      "MK06": 28896.01,
+      "PK06": 31960.02,
+      "SK06": 33043.99,
+      "SK08": 35568.0,
+      "UK04": 33583.99,
+      "MK08": 30159.98,
+      "PK08": 33403.99,
+      "UK08": 38452.01
+    }
+  },
+  "GGL 307040D": {
+    "descriere": "FEREASTRA DE MANSARDA, EVACUARE FUM",
+    "imagine": "https://contenthub.velux.com/api/public/content/c30fe-f196e-7343f_Master?v=dde95ea2",
+    "variante": {
+      "MK04": 22711.99,
+      "MK06": 23744.02,
+      "MK08": 24644.02,
+      "PK06": 25931.99,
+      "PK08": 26963.98,
+      "SK06": 26707.99,
+      "SK08": 28507.99,
+      "UK04": 27092.0,
+      "UK08": 30572.01
+    }
+  },
+  "GGU 006640D": {
+    "descriere": "FEREASTRA DE MANSARDA, EVACUARE FUM",
+    "imagine": "https://contenthub.velux.com/api/public/content/0383e-4536d-5c4b3_Master?v=da103bbd",
+    "variante": {
+      "MK04": 31600.02,
+      "MK06": 33403.99,
+      "MK08": 34979.99,
+      "PK06": 37236.01,
+      "PK08": 39040.02,
+      "SK06": 38588.01,
+      "SK08": 41743.98,
+      "UK04": 39264.02,
+      "UK08": 45352.01
+    }
+  },
+  "GGU 007040D": {
+    "descriere": "FEREASTRA DE MANSARDA, EVACUARE FUM",
+    "imagine": "https://contenthub.velux.com/api/public/content/0383e-4536d-5c4b3_Master?v=da103bbd",
+    "variante": {
+      "MK04": 25676.01,
+      "MK06": 26963.98,
+      "MK08": 28091.99,
+      "PK06": 29699.98,
+      "PK08": 30988.0,
+      "SK06": 30667.98,
+      "SK08": 32919.99,
+      "UK04": 31151.98,
+      "UK08": 35495.98
+    }
+  },
+  "GLL 1061B": {
+    "descriere": "FEREASTRA DE MANSARDA, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/4ff49-3b829-7b4f1_Master?v=0fb9aa1e",
+    "variante": {
+      "FK06": 10560.01,
+      "MK04": 10336.01,
+      "MK06": 11236.01,
+      "MK08": 12024.01,
+      "MK10": 13931.99,
+      "PK08": 14043.99,
+      "CK04": 9100.02,
+      "FK08": 11572.0
+    }
+  },
+  "GLL 1064B": {
+    "descriere": "FEREASTRA DE MANSARDA, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/42440-d0d8a-214ff_Master?v=ba91ac9e",
+    "variante": {
+      "FK06": 12148.01,
+      "MK04": 11888.01,
+      "MK06": 12919.99,
+      "MK08": 13824.01,
+      "MK10": 16023.98,
+      "PK08": 16152.0,
+      "CK04": 10468.0,
+      "FK08": 13308.02
+    }
+  },
+  "GLL 1085B": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/a1f22-eba6e-854c0_Master?v=38f75b1d",
+    "variante": {
+      "FK06": 15843.98,
+      "MK04": 15504.02,
+      "MK06": 16855.98,
+      "MK08": 18032.0,
+      "MK10": 20899.99,
+      "PK08": 21067.99
+    }
+  },
+  "GLU 0051B": {
+    "descriere": "Fereastra standard cu manerul jos, 66*118 cm",
+    "imagine": "https://contenthub.velux.com/api/public/content/10c2d-ae4e2-074e3_Master?v=410f841e",
+    "variante": {
+      "FK06": 10268.01,
+      "MK04": 10047.99,
+      "MK06": 10920.01,
+      "MK08": 11684.0,
+      "PK08": 13651.99
+    }
+  },
+  "GLU 0061B": {
+    "descriere": "FEREASTRA DE MANSARDA, PU, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/5e1c5-35aa5-5c4cc_Master?v=d06c1dfb",
+    "variante": {
+      "FK06": 12676.01,
+      "MK04": 12404.0,
+      "MK06": 13484.0,
+      "MK08": 14427.99,
+      "PK08": 16855.98,
+      "CK04": 10920.01,
+      "FK08": 13887.99,
+      "MK10": 16720.02
+    }
+  },
+  "GLU 0064B": {
+    "descriere": "FEREASTRA DE MANSARDA, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/7c3af-8b486-0d4ad_Master?v=6d86e6ab",
+    "variante": {
+      "FK06": 14576.0,
+      "MK04": 14264.01,
+      "MK06": 15504.02,
+      "MK08": 16592.0,
+      "PK08": 19384.01,
+      "CK04": 12559.99,
+      "FK08": 15972.0,
+      "MK10": 19228.01
+    }
+  },
+  "GLU 0085B": {
+    "descriere": "FEREASTRA DE MANSARDA, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/10c2d-ae4e2-074e3_Master?v=410f841e",
+    "variante": {
+      "FK06": 19012.0,
+      "MK04": 18608.01,
+      "MK06": 20223.99,
+      "MK08": 21639.98,
+      "MK10": 25080.01,
+      "PK08": 25280.0
+    }
+  },
+  "GZL 1051B": {
+    "descriere": "FEREASTRA DE MANSARDA, MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/ab396-9fab1-34463_Master?v=20609f54",
+    "variante": {
+      "FK06": 8556.01,
+      "MK04": 8371.99,
+      "MK06": 9100.02,
+      "MK08": 9740.02,
+      "MK10": 11283.98,
+      "PK08": 11375.98,
+      "PK06": 10648.0
+    }
+  },
+  "GGL 206621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d7bc-29877-b84b0_Master?v=aa918bfe",
+    "variante": {
+      "CK02": 24815.99,
+      "FK04": 27340.0,
+      "FK06": 28064.01,
+      "FK08": 29684.01,
+      "MK04": 27700.0,
+      "MK06": 29144.01,
+      "MK08": 30407.98,
+      "MK10": 33471.99,
+      "PK06": 32208.02,
+      "PK08": 33651.99,
+      "SK06": 33291.99,
+      "MK12": 36536.0
+    }
+  },
+  "GGL 306621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 24815.99,
+      "CK04": 25715.98,
+      "CK06": 27340.0,
+      "FK04": 27340.0,
+      "FK06": 28064.01,
+      "FK08": 29684.01,
+      "MK04": 27700.0,
+      "MK06": 29144.01,
+      "MK08": 30407.98,
+      "MK10": 33471.99,
+      "PK06": 32208.02,
+      "PK08": 33651.99,
+      "PK10": 35456.0,
+      "SK06": 33291.99,
+      "SK08": 35816.0,
+      "SK10": 38520.01,
+      "UK04": 33831.99,
+      "UK08": 38700.01,
+      "UK10": 42127.99
+    }
+  },
+  "GGL 316621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "FK04": 38700.01,
+      "FK06": 39928.02,
+      "FK08": 42687.98,
+      "MK10": 49124.02,
+      "SK10": 57708.0,
+      "UK10": 63836.02
+    }
+  },
+  "GGL 336621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "MK06": 41767.99,
+      "MK08": 43912.01,
+      "PK06": 46976.02,
+      "PK08": 49431.98,
+      "UK08": 58012.0
+    }
+  },
+  "GGL 236621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, ALB, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d7bc-29877-b84b0_Master?v=aa918bfe",
+    "variante": {
+      "PK08": 49431.98
+    }
+  },
+  "GGL 306821": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 23348.01,
+      "CK04": 24151.99,
+      "FK04": 25603.99,
+      "FK06": 26248.0,
+      "FK08": 27695.98,
+      "MK04": 25924.01,
+      "MK06": 27211.98,
+      "MK08": 28339.99,
+      "MK10": 31075.99,
+      "PK04": 28016.0,
+      "PK06": 29947.98,
+      "PK08": 31236.0,
+      "PK10": 32848.02,
+      "PK25": 29628.01,
+      "SK01": 29947.98,
+      "SK06": 30915.98,
+      "SK08": 33167.99,
+      "SK10": 35584.02,
+      "UK08": 35743.98,
+      "UK10": 38804.02
+    }
+  },
+  "GGL 206821": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d7bc-29877-b84b0_Master?v=aa918bfe",
+    "variante": {
+      "MK04": 25924.01
+    }
+  },
+  "GGL 306630": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 24815.99,
+      "CK04": 25715.98,
+      "CK06": 27340.0,
+      "FK06": 28064.01,
+      "FK08": 29684.01,
+      "MK04": 27700.0,
+      "MK06": 29144.01,
+      "MK08": 30407.98,
+      "MK10": 33471.99,
+      "PK08": 33651.99,
+      "PK10": 35456.0,
+      "SK06": 33291.99,
+      "UK04": 33831.99,
+      "UK08": 38700.01
+    }
+  },
+  "GGL 306830": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 23348.01,
+      "CK04": 24151.99,
+      "FK06": 26248.0,
+      "FK08": 27695.98,
+      "MK04": 25924.01,
+      "MK06": 27211.98,
+      "MK08": 28339.99,
+      "PK06": 29947.98,
+      "SK06": 30915.98,
+      "SK08": 33167.99
+    }
+  },
+  "GGL 307030": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "BK04": 21804.01,
+      "CK02": 20899.99,
+      "CK04": 21544.0,
+      "CK06": 22704.0,
+      "FK04": 22704.0,
+      "FK06": 23220.0,
+      "FK08": 24380.0,
+      "MK04": 22959.99,
+      "MK06": 23991.98,
+      "MK08": 24892.02,
+      "MK10": 27084.01,
+      "PK04": 24635.99,
+      "PK06": 26180.0,
+      "PK08": 27211.98,
+      "PK10": 28500.0,
+      "PK25": 25924.01,
+      "SK01": 26180.0,
+      "SK06": 26955.99,
+      "SK08": 28755.99,
+      "SK10": 30688.02,
+      "UK04": 27340.0,
+      "UK08": 30820.01,
+      "UK10": 33264.01
+    }
+  },
+  "GGL 207030": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d7bc-29877-b84b0_Master?v=aa918bfe",
+    "variante": {
+      "MK04": 22959.99,
+      "MK06": 23991.98
+    }
+  },
+  "GGU 016621": {
+    "descriere": "FEREASTRA DE MANSARDA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "MK06": 49431.98,
+      "PK06": 55944.01
+    }
+  },
+  "GGU 036621": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "MK06": 49431.98,
+      "MK08": 52111.99,
+      "PK06": 55944.01,
+      "PK08": 59008.02
+    }
+  },
+  "GGU 006821": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "CK02": 26408.01,
+      "CK04": 27412.02,
+      "CK06": 29224.02,
+      "FK04": 29224.02,
+      "FK06": 30027.99,
+      "FK08": 31839.99,
+      "MK04": 29628.01,
+      "MK06": 31236.0,
+      "MK08": 32644.01,
+      "MK10": 36068.02,
+      "PK06": 34660.01,
+      "PK08": 36268.01,
+      "PK10": 38280.0,
+      "SK06": 35864.01,
+      "SK08": 38683.99,
+      "UK08": 41903.99,
+      "UK10": 45727.98
+    }
+  },
+  "GGU 007021": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "CK02": 23348.01,
+      "CK04": 24151.99,
+      "CK06": 25603.99,
+      "FK04": 25603.99,
+      "FK06": 26248.0,
+      "FK08": 27695.98,
+      "MK04": 25924.01,
+      "MK06": 27211.98,
+      "MK08": 28339.99,
+      "MK10": 31075.99,
+      "PK06": 29947.98,
+      "PK08": 31236.0,
+      "PK10": 32848.02,
+      "SK06": 30915.98,
+      "SK08": 33167.99,
+      "UK08": 35743.98,
+      "UK10": 38804.02
+    }
+  },
+  "GGU 006630": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/b497b-3dd1c-4a441_Master?v=1c32ae39",
+    "variante": {
+      "CK02": 28244.01,
+      "CK04": 29368.01,
+      "CK06": 31399.98,
+      "FK06": 32299.98,
+      "FK08": 34327.99,
+      "MK04": 31848.02,
+      "MK06": 33651.99,
+      "MK08": 35227.99,
+      "MK10": 39060.01,
+      "PK08": 39288.02,
+      "PK10": 41539.98,
+      "SK06": 38836.01,
+      "UK04": 39512.02,
+      "UK08": 45600.01,
+      "PK06": 37484.01,
+      "UK10": 49880.02
+    }
+  },
+  "GGU 006830": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/b497b-3dd1c-4a441_Master?v=1c32ae39",
+    "variante": {
+      "CK02": 26408.01,
+      "CK04": 27412.02,
+      "FK06": 30027.99,
+      "FK08": 31839.99,
+      "MK04": 29628.01,
+      "MK06": 31236.0,
+      "MK08": 32644.01,
+      "PK06": 34660.01,
+      "SK06": 35864.01,
+      "SK08": 38683.99
+    }
+  },
+  "GGU 007030": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/b497b-3dd1c-4a441_Master?v=1c32ae39",
+    "variante": {
+      "CK02": 23348.01,
+      "CK04": 24151.99,
+      "CK06": 25603.99,
+      "FK04": 25603.99,
+      "FK06": 26248.0,
+      "FK08": 27695.98,
+      "MK04": 25924.01,
+      "MK06": 27211.98,
+      "MK08": 28339.99,
+      "MK10": 31075.99,
+      "PK06": 29947.98,
+      "PK08": 31236.0,
+      "PK10": 32848.02,
+      "SK06": 30915.98,
+      "SK08": 33167.99,
+      "UK04": 31399.98,
+      "UK08": 35743.98,
+      "UK10": 38804.02
+    }
+  },
+  "GGL 306221": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 28144.02,
+      "CK04": 29264.0,
+      "CK06": 31284.02,
+      "FK04": 31284.02,
+      "FK06": 32180.0,
+      "FK08": 34196.0,
+      "MK04": 31732.01,
+      "MK06": 33524.02,
+      "MK08": 35091.98,
+      "MK10": 38900.0,
+      "PK04": 34643.99,
+      "PK06": 37331.98,
+      "PK08": 39128.01,
+      "PK10": 41368.01,
+      "SK08": 41816.0
+    }
+  },
+  "GGL 316221": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/51d4a-881f8-d44ef_Master?v=0e2e96f7",
+    "variante": {
+      "CK02": 40067.99,
+      "CK04": 41972.0,
+      "MK04": 46164.02
+    }
+  },
+  "GGU 006221": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "CK02": 32403.99,
+      "CK04": 33804.01,
+      "CK06": 36324.01,
+      "FK04": 36324.01,
+      "FK06": 37443.98,
+      "FK08": 39967.99,
+      "MK04": 36883.99,
+      "MK06": 39128.01,
+      "MK08": 41088.02,
+      "MK10": 45848.01,
+      "PK06": 43888.01,
+      "PK08": 46128.01,
+      "PK10": 48932.01,
+      "SK06": 45568.02,
+      "SK08": 49492.0
+    }
+  },
+  "GGU 016221": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d57e3-8a2d2-b443e_Master?v=50810bea",
+    "variante": {
+      "CK02": 47308.0,
+      "MK04": 54923.98
+    }
+  },
+  "GLL 106121": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/75734-7cb98-8a458_Master?v=de8fe63f",
+    "variante": {
+      "FK06": 17039.99,
+      "MK04": 16816.0,
+      "MK06": 17716.0,
+      "MK08": 18504.0,
+      "PK08": 20524.02
+    }
+  },
+  "GLL 106421": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/75734-7cb98-8a458_Master?v=de8fe63f",
+    "variante": {
+      "CK02": 16300.01,
+      "FK06": 18628.0,
+      "MK04": 18367.99,
+      "MK06": 19399.98,
+      "MK08": 20303.99,
+      "MK10": 22504.02,
+      "PK08": 22631.99
+    }
+  },
+  "GLL 106130": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/baa72-75f73-a34a7_Master?v=08292f25",
+    "variante": {
+      "CK02": 15020.02,
+      "MK04": 16816.0,
+      "MK06": 17716.0,
+      "MK08": 18504.0,
+      "MK10": 20412.02,
+      "PK08": 20524.02
+    }
+  },
+  "GLL 106430": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/baa72-75f73-a34a7_Master?v=08292f25",
+    "variante": {
+      "CK02": 16300.01,
+      "FK06": 18628.0,
+      "MK04": 18367.99,
+      "MK06": 19399.98,
+      "MK08": 20303.99,
+      "MK10": 22504.02,
+      "PK08": 22631.99
+    }
+  },
+  "GLU 006121": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/7c4d6-5b85d-4d4a1_Master?v=f0eb634d",
+    "variante": {
+      "FK06": 19155.99,
+      "MK06": 19963.98,
+      "MK08": 20907.98,
+      "MK10": 23200.01
+    }
+  },
+  "GLU 006421": {
+    "descriere": "FEREASTRA DE MANSARDA, ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/7c4d6-5b85d-4d4a1_Master?v=f0eb634d",
+    "variante": {
+      "CK02": 18263.98,
+      "FK06": 21055.98,
+      "MK04": 20744.0,
+      "MK06": 21984.01,
+      "MK08": 23071.99,
+      "MK10": 25708.0,
+      "PK08": 25863.99
+    }
+  },
+  "GLU 006130": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/c918c-31022-b346c_Master?v=d929a9ca",
+    "variante": {
+      "CK02": 16728.01,
+      "FK06": 19155.99,
+      "MK04": 18883.99,
+      "MK06": 19963.98,
+      "MK08": 20907.98,
+      "MK10": 23200.01
+    }
+  },
+  "GLU 006430": {
+    "descriere": "FEREASTRA DE MANSARDA, SOLARA",
+    "imagine": "https://contenthub.velux.com/api/public/content/c918c-31022-b346c_Master?v=d929a9ca",
+    "variante": {
+      "CK02": 18263.98,
+      "FK06": 21055.98,
+      "MK04": 20744.0,
+      "MK06": 21984.01,
+      "MK08": 23071.99,
+      "MK10": 25708.0,
+      "PK08": 25863.99
+    }
+  },
+  "GXL 3066": {
+    "descriere": "FEREASTRA DE MANSARDA, IESIRE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bd58-45162-fe40e_Master?v=b5a75e05",
+    "variante": {
+      "FK06": 22035.99
+    }
+  },
+  "GXL 3070": {
+    "descriere": "FEREASTRA DE MANSARDA, IESIRE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bd58-45162-fe40e_Master?v=b5a75e05",
+    "variante": {
+      "FK06": 15740.02,
+      "MK04": 15403.98
+    }
+  },
+  "GXL 3170": {
+    "descriere": "FEREASTRA DE MANSARDA, CU",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bd58-45162-fe40e_Master?v=b5a75e05",
+    "variante": {
+      "FK06": 26756.0
+    }
+  },
+  "GXU 0066": {
+    "descriere": "FEREASTRA DE MANSARDA, IESIRE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/271dc-aa6d6-fa4f4_Master?v=16995951",
+    "variante": {
+      "CK06": 24020.0,
+      "FK06": 25087.99,
+      "CK04": 21616.02
+    }
+  },
+  "GXU 0070": {
+    "descriere": "FEREASTRA DE MANSARDA, IESIRE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/271dc-aa6d6-fa4f4_Master?v=16995951",
+    "variante": {
+      "CK06": 17156.01,
+      "FK06": 17920.0,
+      "CK04": 15439.99
+    }
+  },
+  "GXL 3068": {
+    "descriere": "FEREASTRA DE MANSARDA, IESIRE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/67cd5-c0223-6e42b_Master?v=196e5af8",
+    "variante": {
+      "FK06": 19676.0
+    }
+  },
+  "GXLA 3068": {
+    "descriere": "IESIRE PE ACOPERIS, BALAMALE PE STANGA EXT.",
+    "imagine": "https://contenthub.velux.com/api/public/content/9ce5b-06cad-454a3_Master?v=d9d8befc",
+    "variante": {
+      "FK06": 19676.0,
+      "MK04": 19255.99,
+      "MK06": 20931.98,
+      "MK08": 22395.99
+    }
+  },
+  "GXLB 3068": {
+    "descriere": "IESIRE PE ACOPERIS, BALAMALE PE DREAPTA EXT.",
+    "imagine": "https://contenthub.velux.com/api/public/content/4b7f3-cd170-404e6_Master?v=9993cbf9",
+    "variante": {
+      "FK06": 19676.0,
+      "MK04": 19255.99,
+      "MK06": 20931.98,
+      "MK08": 22395.99
+    }
+  },
+  "GPL 3066": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "CK04": 20924.0,
+      "CK06": 22548.01,
+      "FK06": 23271.98,
+      "FK08": 24892.02,
+      "MK04": 22908.01,
+      "MK06": 24351.98,
+      "MK08": 25615.99,
+      "MK10": 28680.0,
+      "PK04": 25252.02,
+      "PK06": 27415.99,
+      "PK08": 28860.0,
+      "PK10": 30664.01,
+      "SK06": 28500.0,
+      "SK08": 31024.01,
+      "SK10": 33728.02,
+      "UK04": 29040.0,
+      "UK08": 33908.02
+    }
+  },
+  "GPL 3166": {
+    "descriere": "FEREASTRA DE MANSARDA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "MK06": 36976.0,
+      "MK08": 39119.98,
+      "MK10": 44331.98,
+      "PK06": 42183.99,
+      "PK08": 44640.0,
+      "PK10": 47704.01,
+      "SK06": 44024.01,
+      "SK08": 48315.98
+    }
+  },
+  "GPL 2066": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/9901a-603b2-ac417_Master?v=380bac55",
+    "variante": {
+      "MK10": 28680.0,
+      "PK04": 25252.02,
+      "PK08": 28860.0,
+      "PK10": 30664.01
+    }
+  },
+  "GPL 2068": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/9901a-603b2-ac417_Master?v=380bac55",
+    "variante": {
+      "CK04": 19360.0,
+      "PK10": 28055.98
+    }
+  },
+  "GPL 3068": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "CK04": 19360.0,
+      "CK06": 20812.0,
+      "FK06": 21456.01,
+      "FK08": 22903.99,
+      "MK04": 21132.02,
+      "MK06": 22419.99,
+      "MK08": 23548.0,
+      "MK10": 26284.01,
+      "PK04": 23224.01,
+      "PK06": 25156.0,
+      "PK08": 26444.02,
+      "PK10": 28055.98,
+      "SK06": 26124.0,
+      "SK08": 28376.0,
+      "SK10": 30791.98,
+      "UK04": 26608.0,
+      "UK08": 30951.99
+    }
+  },
+  "GPL 3070": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "CK04": 16752.01,
+      "CK06": 17912.02,
+      "FK06": 18428.01,
+      "FK08": 19588.01,
+      "MK04": 18168.0,
+      "MK06": 19199.99,
+      "MK08": 20099.99,
+      "MK10": 22292.02,
+      "PK04": 19844.0,
+      "PK06": 21388.01,
+      "PK08": 22419.99,
+      "PK10": 23708.01,
+      "SK06": 22164.01,
+      "SK08": 23964.0,
+      "SK10": 25895.98,
+      "UK08": 26028.02
+    }
+  },
+  "GPL 2070": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/9901a-603b2-ac417_Master?v=380bac55",
+    "variante": {
+      "MK04": 18168.0,
+      "MK06": 19199.99,
+      "UK08": 26028.02
+    }
+  },
+  "GPL 3370": {
+    "descriere": "FEREASTRA DE MANSARDA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "MK06": 28215.99,
+      "SK06": 33252.01
+    }
+  },
+  "GPL 3170": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51ca0-e4d45-744d3_Master?v=f3615970",
+    "variante": {
+      "MK10": 33471.99
+    }
+  },
+  "GPU 0066": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "CK04": 24576.02,
+      "CK06": 26608.0,
+      "FK06": 27507.99,
+      "FK08": 29536.0,
+      "MK04": 27055.99,
+      "MK06": 28860.0,
+      "MK08": 30436.0,
+      "MK10": 34268.02,
+      "PK06": 32692.02,
+      "PK08": 34495.99,
+      "PK10": 36747.99,
+      "SK06": 34043.98,
+      "SK08": 37200.0,
+      "SK10": 40580.01,
+      "UK08": 40807.98
+    }
+  },
+  "GPU 0166": {
+    "descriere": "FEREASTRA DE MANSARDA, PU, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "MK04": 41572.02,
+      "PK08": 54215.99
+    }
+  },
+  "GPU 0068": {
+    "descriere": "FEREASTRA DE MANSARDA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "CK04": 22619.98,
+      "CK06": 24431.98,
+      "FK06": 25236.0,
+      "FK08": 27048.0,
+      "MK04": 24835.98,
+      "MK06": 26444.02,
+      "MK08": 27852.02,
+      "MK10": 31275.98,
+      "PK06": 29867.98,
+      "PK08": 31476.02,
+      "PK10": 33488.01,
+      "SK06": 31071.98,
+      "SK08": 33892.0,
+      "SK10": 36912.02,
+      "UK08": 37112.01
+    }
+  },
+  "GPU 0069": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "CK04": 23271.98
+    }
+  },
+  "GPU 0070": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "CK04": 19360.0,
+      "CK06": 20812.0,
+      "FK06": 21456.01,
+      "FK08": 22903.99,
+      "MK04": 21132.02,
+      "MK06": 22419.99,
+      "MK08": 23548.0,
+      "MK10": 26284.01,
+      "PK06": 25156.0,
+      "PK08": 26444.02,
+      "PK10": 28055.98,
+      "SK06": 26124.0,
+      "SK08": 28376.0,
+      "SK10": 30791.98,
+      "UK08": 30951.99
+    }
+  },
+  "GPU 0062": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/d4ec7-09531-e749c_Master?v=6658969f",
+    "variante": {
+      "FK06": 32652.0
+    }
+  },
+  "GNU 0064": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/2181e-6a53b-414a7_Master?v=4c35822c",
+    "variante": {
+      "FK06": 20016.01,
+      "MK04": 19703.98,
+      "MK06": 20943.99,
+      "MK08": 22032.02,
+      "MK10": 24667.98,
+      "PK08": 24824.02,
+      "SK08": 26683.98
+    }
+  },
+  "GNL 1064": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/0086b-da1e5-84426_Master?v=f5c05399",
+    "variante": {
+      "FK06": 17587.98,
+      "MK04": 17328.02,
+      "MK06": 18360.01,
+      "MK08": 19264.02,
+      "MK10": 21464.0,
+      "PK08": 21592.01,
+      "SK08": 23144.01
+    }
+  },
+  "GPU 006621": {
+    "descriere": "FEREASTRA DE MANSARDA ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/8f9af-d9153-bb4d7_Master?v=46bdaada",
+    "variante": {
+      "FK06": 39676.0,
+      "FK08": 41704.01,
+      "MK06": 41028.0,
+      "MK08": 42604.0,
+      "PK06": 44860.02,
+      "PK08": 46663.99,
+      "SK06": 46211.98,
+      "SK08": 49368.0
+    }
+  },
+  "GPU 007021": {
+    "descriere": "FEREASTRA DE MANSARDA ELECTRICA",
+    "imagine": "https://contenthub.velux.com/api/public/content/8f9af-d9153-bb4d7_Master?v=46bdaada",
+    "variante": {
+      "FK06": 33624.01,
+      "FK08": 35072.0,
+      "MK06": 34588.0,
+      "MK08": 35716.01,
+      "PK06": 37324.0,
+      "PK08": 38612.02,
+      "SK06": 38292.0,
+      "SK08": 40544.0
+    }
+  },
+  "VIU 0062": {
+    "descriere": "FEREASTRA VERTICALA FIXA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/18aa9-20404-484b3_Master?v=454b3b8b",
+    "variante": {
+      "SK31": 26591.98
+    }
+  },
+  "VIU 0066": {
+    "descriere": "FEREASTRA VERTICALA FIXA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/18aa9-20404-484b3_Master?v=454b3b8b",
+    "variante": {
+      "MK31": 16708.02,
+      "MK35": 18747.98,
+      "PK31": 19151.98,
+      "PK35": 21191.99,
+      "SK31": 21395.99,
+      "SK35": 23227.98,
+      "UK31": 23227.98,
+      "UK35": 25267.99
+    }
+  },
+  "VIU 0166": {
+    "descriere": "FEREASTRA VERTICALA FIXA, PU, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/18aa9-20404-484b3_Master?v=454b3b8b",
+    "variante": {
+      "UK31": 39488.01
+    }
+  },
+  "VIU 0068": {
+    "descriere": "FEREASTRA VERTICALA FIXA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/18aa9-20404-484b3_Master?v=454b3b8b",
+    "variante": {
+      "MK31": 14919.98,
+      "MK35": 16735.99,
+      "PK31": 17100.01,
+      "PK35": 18920.0,
+      "SK31": 19104.01,
+      "SK35": 20739.98
+    }
+  },
+  "VIU 0070": {
+    "descriere": "FEREASTRA VERTICALA FIXA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/18aa9-20404-484b3_Master?v=454b3b8b",
+    "variante": {
+      "MK31": 11936.02,
+      "MK35": 13391.99,
+      "MK36": 14264.01,
+      "MK38": 14843.99,
+      "PK31": 13680.02,
+      "PK35": 15135.99,
+      "PK36": 15719.98,
+      "PK38": 16300.01,
+      "SK31": 15283.99,
+      "SK35": 16592.0,
+      "SK36": 16884.0,
+      "SK38": 17463.98,
+      "UK31": 16592.0,
+      "UK35": 18048.02,
+      "UK36": 18340.02
+    }
+  },
+  "VFE 2066": {
+    "descriere": "FEREASTRA VERTICALA FIXA, ALB,",
+    "imagine": "https://contenthub.velux.com/api/public/content/72623-2791b-f04f2_Master?v=932bbd64",
+    "variante": {
+      "MK31": 19224.0,
+      "MK35": 21568.01,
+      "UK31": 26724.01
+    }
+  },
+  "VFE 2166": {
+    "descriere": "FEREASTRA VERTICALA FIXA, ALB, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/72623-2791b-f04f2_Master?v=932bbd64",
+    "variante": {
+      "MK31": 32676.0,
+      "UK31": 45428.0
+    }
+  },
+  "VFE 3066": {
+    "descriere": "FEREASTRA VERTICALA",
+    "imagine": "https://contenthub.velux.com/api/public/content/0b298-30fc5-bd499_Master?v=a41c499a",
+    "variante": {
+      "MK31": 19224.0,
+      "MK35": 21568.01,
+      "PK31": 22035.99,
+      "PK35": 24380.0,
+      "SK31": 24611.98,
+      "SK35": 26724.01,
+      "UK31": 26724.01,
+      "UK35": 29068.02
+    }
+  },
+  "VFE 3166": {
+    "descriere": "FEREASTRA VERTICALA, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/0b298-30fc5-bd499_Master?v=a41c499a",
+    "variante": {
+      "MK31": 32676.0,
+      "UK31": 45428.0
+    }
+  },
+  "VFE 3366": {
+    "descriere": "FEREASTRA VERTICALA, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/0b298-30fc5-bd499_Master?v=a41c499a",
+    "variante": {
+      "PK35": 41444.0,
+      "MK35": 36664.02
+    }
+  },
+  "VFE 2366": {
+    "descriere": "FEREASTRA VERTICALA, ALB, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/72623-2791b-f04f2_Master?v=932bbd64",
+    "variante": {
+      "PK35": 41444.0
+    }
+  },
+  "VFE 3068": {
+    "descriere": "FEREASTRA VERTICALA",
+    "imagine": "https://contenthub.velux.com/api/public/content/0b298-30fc5-bd499_Master?v=a41c499a",
+    "variante": {
+      "MK31": 17164.0,
+      "MK35": 19255.99,
+      "PK31": 19676.0,
+      "PK35": 21768.0,
+      "SK31": 21976.02,
+      "SK35": 23859.99,
+      "MK36": 20512.02,
+      "MK38": 21347.98,
+      "PK36": 22604.01,
+      "PK38": 23440.02,
+      "SK36": 24280.01
+    }
+  },
+  "VFE 2070": {
+    "descriere": "FEREASTRA VERTICALA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/72623-2791b-f04f2_Master?v=932bbd64",
+    "variante": {
+      "MK31": 13732.0,
+      "MK35": 15403.98,
+      "PK35": 17412.0,
+      "PK38": 18752.0,
+      "SK31": 17579.99,
+      "SK36": 19423.98,
+      "SK38": 20092.0
+    }
+  },
+  "VFE 3070": {
+    "descriere": "FEREASTRA VERTICALA",
+    "imagine": "https://contenthub.velux.com/api/public/content/0b298-30fc5-bd499_Master?v=a41c499a",
+    "variante": {
+      "MK31": 13732.0,
+      "MK35": 15403.98,
+      "MK36": 16407.99,
+      "MK38": 17080.02,
+      "PK31": 15740.02,
+      "PK35": 17412.0,
+      "PK36": 18083.98,
+      "PK38": 18752.0,
+      "SK31": 17579.99,
+      "SK35": 19087.99,
+      "SK36": 19423.98,
+      "SK38": 20092.0,
+      "UK31": 19087.99,
+      "UK35": 20763.99,
+      "UK36": 21096.01,
+      "UK38": 22436.01
+    }
+  },
+  "GEL 2065": {
+    "descriere": "FEREASTRA DE MANSARDA, ALB",
+    "imagine": "https://contenthub.velux.com/api/public/content/83bea-cf688-2740b_Master?v=d492dcd7",
+    "variante": {
+      "M08": 37900.01
+    }
+  },
+  "GEL 3065": {
+    "descriere": "FEREASTRA DE MANSARDA, TERASA",
+    "imagine": "https://contenthub.velux.com/api/public/content/64f64-e0c49-c14da_Master?v=31d62c97",
+    "variante": {
+      "M08": 37900.01
+    }
+  },
+  "GEL 3165": {
+    "descriere": "FEREASTRA DE MANSARDA",
+    "imagine": "https://contenthub.velux.com/api/public/content/64f64-e0c49-c14da_Master?v=31d62c97",
+    "variante": {
+      "M08": 64428.0
+    }
+  },
+  "VLT 1000": {
+    "descriere": "IESIRE PE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/2de01-93213-a64f5_Master?v=a1443cb7",
+    "variante": {
+      "024": 3956.02,
+      "025": 3044.02,
+      "029": 3348.02,
+      "033": 6695.99,
+      "034": 4108.0
+    }
+  },
+  "GVK": {
+    "descriere": "IESIRE PE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/3c37d-941e3-8944b_Master?v=7e7e2e31",
+    "variante": {
+      "+++": 5520.02
+    }
+  },
+  "GVT 0000Z": {
+    "descriere": "IESIRE PE ACOPERIS",
+    "imagine": "https://contenthub.velux.com/api/public/content/80561-1dc6e-a941b_Master?v=eab6c8a4",
+    "variante": {
+      "103": 7727.98
+    }
+  },
+  "TLF 2010": {
+    "descriere": "TUNEL SOLAR - TUB FLEXIBIL, INVELITOARE PLATA",
+    "imagine": "https://contenthub.velux.com/api/public/content/b4c67-5291c-b140d_Master?v=f7a8d824",
+    "variante": {
+      "0K14": 9808.02
+    }
+  },
+  "TLR 2010": {
+    "descriere": "TUNEL SOLAR INV. PLATA",
+    "imagine": "https://contenthub.velux.com/api/public/content/7c049-e5374-ce421_Master?v=f5e2a81f",
+    "variante": {
+      "0K14": 12260.01,
+      "0K10": 10667.99
+    }
+  },
+  "TWF 2010": {
+    "descriere": "TUNEL SOLAR - TUB FLEXIBIL",
+    "imagine": "https://contenthub.velux.com/api/public/content/7c153-64aa3-84481_Master?v=9b65b756",
+    "variante": {
+      "0K14": 9808.02
+    }
+  },
+  "TWR 2010": {
+    "descriere": "TUNEL SOLAR - TUB RIGID",
+    "imagine": "https://contenthub.velux.com/api/public/content/65ce2-99c64-b8441_Master?v=db78f987",
+    "variante": {
+      "0K14": 12260.01,
+      "0K10": 10667.99
+    }
+  },
+  "EDL 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX",
+    "imagine": "https://contenthub.velux.com/api/public/content/eea20-65c2d-c04f0_Master?v=21a79bea",
+    "variante": {
+      "CK02": 2651.98,
+      "MK04": 3035.99
+    }
+  },
+  "EDL 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX",
+    "imagine": "https://contenthub.velux.com/api/public/content/f3e5d-5f95e-b0493_Master?v=0a12daca",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "PK19": 6652.0,
+      "MK19": 6019.99,
+      "SK19": 6875.99
+    }
+  },
+  "EDL 2300": {
+    "descriere": "RAMA DE ETANSARE, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/f3e5d-5f95e-b0493_Master?v=0a12daca",
+    "variante": {
+      "CK04": 5051.99
+    }
+  },
+  "EDS 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX",
+    "imagine": "https://contenthub.velux.com/api/public/content/cbaa1-71c28-c74f2_Master?v=c95c679c",
+    "variante": {
+      "CK02": 2651.98,
+      "CK04": 2716.01,
+      "CK06": 2811.99,
+      "FK04": 2811.99,
+      "FK06": 3035.99,
+      "FK08": 3196.0,
+      "MK04": 3035.99,
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "MK10": 3740.01,
+      "MK12": 3804.0,
+      "PK06": 3612.0,
+      "PK08": 3804.0,
+      "PK10": 3932.02,
+      "SK06": 3772.01,
+      "SK08": 3996.0,
+      "SK10": 4156.01,
+      "UK04": 3996.0,
+      "UK08": 4316.02,
+      "UK10": 4791.99,
+      "PK04": 3419.99,
+      "PK19": 5720.01,
+      "SK19": 5912.01,
+      "MK19": 5175.99
+    }
+  },
+  "EDS 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX",
+    "imagine": "https://contenthub.velux.com/api/public/content/8bb12-2af52-044fc_Master?v=5423ef4c",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "PK19": 6652.0,
+      "SK19": 6875.99,
+      "MK19": 6019.99
+    }
+  },
+  "EDW 0100": {
+    "descriere": "RAMA DE ETANSARE, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/ac260-2c797-9e47e_Master?v=08adde1b",
+    "variante": {
+      "PK06": 5460.0,
+      "PK25": 5363.98
+    }
+  },
+  "EDW 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX",
+    "imagine": "https://contenthub.velux.com/api/public/content/d79dd-c2678-56400_Master?v=e254308e",
+    "variante": {
+      "BK04": 2716.01,
+      "CK01": 2651.98,
+      "CK02": 2651.98,
+      "CK04": 2716.01,
+      "CK06": 2811.99,
+      "FK04": 2811.99,
+      "FK06": 3035.99,
+      "FK08": 3196.0,
+      "MK04": 3035.99,
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "MK10": 3740.01,
+      "MK12": 3804.0,
+      "MK27": 3483.98,
+      "PK04": 3419.99,
+      "PK06": 3612.0,
+      "PK08": 3804.0,
+      "PK10": 3932.02,
+      "PK25": 3548.01,
+      "SK01": 3740.01,
+      "SK06": 3772.01,
+      "SK08": 3996.0,
+      "SK10": 4156.01,
+      "UK04": 3996.0,
+      "UK06": 4156.01,
+      "UK08": 4316.02,
+      "UK10": 4791.99,
+      "PK19": 5720.01,
+      "SK19": 5912.01,
+      "MK19": 5175.99
+    }
+  },
+  "EDW 1100": {
+    "descriere": "RAMA DE ETANSARE CU BFX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d79dd-c2678-56400_Master?v=e254308e",
+    "variante": {
+      "BK04": 5431.98,
+      "CK02": 5304.01,
+      "CK04": 5431.98,
+      "CK06": 5623.98,
+      "FK04": 5623.98,
+      "FK06": 6072.02,
+      "FK08": 6391.99,
+      "MK04": 6072.02,
+      "MK06": 6391.99,
+      "MK08": 6776.0,
+      "MK10": 7479.98,
+      "MK12": 7603.98,
+      "MK27": 6968.0,
+      "PK04": 6839.98,
+      "PK06": 7223.99,
+      "PK08": 7603.98,
+      "PK10": 7860.01,
+      "PK25": 7096.02,
+      "SK01": 7479.98,
+      "SK06": 7539.99,
+      "SK08": 7987.98,
+      "SK10": 8308.01,
+      "UK04": 7987.98,
+      "UK08": 8627.98,
+      "UK10": 9587.99
+    }
+  },
+  "EDW 1300": {
+    "descriere": "RAMA DE ETANSARE CU BFX, Ti-Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/d79dd-c2678-56400_Master?v=e254308e",
+    "variante": {
+      "CK02": 4244.0,
+      "CK04": 4348.01,
+      "CK06": 4499.99,
+      "FK04": 4499.99,
+      "FK06": 4856.02,
+      "FK08": 5112.01,
+      "MK04": 4856.02,
+      "MK06": 5112.01,
+      "MK08": 5419.98,
+      "MK10": 5983.98,
+      "MK12": 6083.98,
+      "PK04": 5472.01,
+      "PK06": 5776.01,
+      "PK08": 6083.98,
+      "PK10": 6287.98,
+      "PK25": 5676.01,
+      "SK01": 5983.98,
+      "SK06": 6032.0,
+      "SK08": 6391.99,
+      "SK10": 6647.98,
+      "UK04": 6391.99,
+      "UK08": 6904.02,
+      "UK10": 7668.01
+    }
+  },
+  "EDW 1700C1": {
+    "descriere": "RAMA DE ETANSARE CU BFX, sort galben",
+    "imagine": "https://contenthub.velux.com/api/public/content/d79dd-c2678-56400_Master?v=e254308e",
+    "variante": {
+      "CK02": 2784.02,
+      "CK04": 2852.02,
+      "CK06": 2952.01,
+      "FK04": 2952.01,
+      "FK06": 3188.01,
+      "FK08": 3356.01,
+      "MK04": 3188.01,
+      "MK06": 3356.01,
+      "MK08": 3556.0,
+      "MK10": 3923.98,
+      "MK27": 3655.99,
+      "PK04": 3592.01,
+      "PK06": 3791.99,
+      "PK08": 3991.98,
+      "PK10": 4127.99,
+      "PK25": 3723.99,
+      "SK01": 3923.98,
+      "SK06": 3959.99,
+      "SK08": 4195.99,
+      "UK08": 4528.01,
+      "UK10": 5032.0
+    }
+  },
+  "EDW 1700C2": {
+    "descriere": "RAMA DE ETANSARE CU BFX, sort rosu",
+    "imagine": "https://contenthub.velux.com/api/public/content/d79dd-c2678-56400_Master?v=e254308e",
+    "variante": {
+      "CK02": 2784.02,
+      "CK04": 2852.02,
+      "CK06": 2952.01,
+      "FK04": 2952.01,
+      "FK06": 3188.01,
+      "FK08": 3356.01,
+      "MK04": 3188.01,
+      "MK06": 3356.01,
+      "MK08": 3556.0,
+      "MK10": 3923.98,
+      "MK27": 3655.99,
+      "PK04": 3592.01,
+      "PK06": 3791.99,
+      "PK08": 3991.98,
+      "PK10": 4127.99,
+      "PK25": 3723.99,
+      "SK01": 3923.98,
+      "SK06": 3959.99,
+      "SK08": 4195.99,
+      "UK04": 4195.99,
+      "UK08": 4528.01,
+      "UK10": 5032.0
+    }
+  },
+  "EDW 2000": {
+    "descriere": "RAMA DE ETANSARE",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bac6-5a592-1d47c_Master?v=1af74e9e",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "MK27": 4052.0,
+      "SK01": 4348.01,
+      "UK06": 4832.01,
+      "PK19": 6652.0,
+      "SK19": 6875.99,
+      "MK19": 6019.99
+    }
+  },
+  "EDW 2300": {
+    "descriere": "RAMA DE ETANSARE, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bac6-5a592-1d47c_Master?v=1af74e9e",
+    "variante": {
+      "CK04": 5051.99,
+      "MK08": 6304.0,
+      "MK12": 7075.98,
+      "SK10": 7727.98
+    }
+  },
+  "EDW 2100": {
+    "descriere": "RAMA DE ETANSARE, CU",
+    "imagine": "https://contenthub.velux.com/api/public/content/5bac6-5a592-1d47c_Master?v=1af74e9e",
+    "variante": {
+      "FK06": 7060.01,
+      "MK04": 7060.01,
+      "MK10": 8695.98,
+      "PK08": 8843.99
+    }
+  },
+  "EDJ 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/84a50-95bf5-1a416_Master?v=b0f985ce",
+    "variante": {
+      "CK02": 3183.99,
+      "CK04": 3259.98,
+      "CK06": 3376.0,
+      "FK04": 3376.0,
+      "FK06": 3643.99,
+      "FK08": 3835.99,
+      "MK04": 3643.99,
+      "MK06": 3835.99,
+      "MK08": 4064.0,
+      "MK10": 4487.99,
+      "MK12": 4564.02,
+      "PK06": 4331.99,
+      "PK08": 4564.02,
+      "PK10": 4716.0,
+      "SK06": 4524.0,
+      "SK08": 4791.99,
+      "SK10": 4983.99,
+      "UK04": 4791.99,
+      "UK08": 5175.99,
+      "UK10": 5752.0
+    }
+  },
+  "EDJ 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/5f74b-e6223-b2474_Master?v=4b779e0b",
+    "variante": {
+      "CK02": 3699.99,
+      "CK04": 3791.99,
+      "CK06": 3923.98,
+      "FK04": 3923.98,
+      "FK06": 4236.02,
+      "FK08": 4460.01,
+      "MK04": 4236.02,
+      "MK06": 4460.01,
+      "MK08": 4728.0,
+      "MK10": 5216.02,
+      "PK06": 5039.99,
+      "PK08": 5307.98,
+      "SK06": 5260.02,
+      "SK08": 5576.02,
+      "UK04": 5576.02,
+      "UK08": 6019.99,
+      "UK10": 6688.01
+    }
+  },
+  "EDB 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX",
+    "imagine": "https://contenthub.velux.com/api/public/content/f1a65-9faea-a24da_Master?v=7467574c",
+    "variante": {
+      "CK02": 2651.98,
+      "CK04": 2716.01,
+      "CK06": 2811.99,
+      "FK04": 2811.99,
+      "FK06": 3035.99,
+      "FK08": 3196.0,
+      "MK04": 3035.99,
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "MK10": 3740.01,
+      "MK12": 3804.0,
+      "PK06": 3612.0,
+      "PK08": 3804.0,
+      "PK10": 3932.02,
+      "SK06": 3772.01,
+      "SK08": 3996.0,
+      "SK10": 4156.01,
+      "UK04": 3996.0,
+      "UK08": 4316.02,
+      "UK10": 4791.99
+    }
+  },
+  "EDB 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX",
+    "imagine": "https://contenthub.velux.com/api/public/content/afcda-739c3-2349e_Master?v=2ba20369",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "UK08": 5015.98
+    }
+  },
+  "EDN 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/c4a27-6b911-6e43f_Master?v=d4720081",
+    "variante": {
+      "CK02": 3183.99,
+      "CK04": 3259.98,
+      "CK06": 3376.0,
+      "FK04": 3376.0,
+      "FK06": 3643.99,
+      "FK08": 3835.99,
+      "MK04": 3643.99,
+      "MK06": 3835.99,
+      "MK08": 4064.0,
+      "MK10": 4487.99,
+      "MK12": 4564.02,
+      "PK04": 4103.98,
+      "PK06": 4331.99,
+      "PK08": 4564.02,
+      "PK10": 4716.0,
+      "SK06": 4524.0,
+      "SK08": 4791.99,
+      "SK10": 4983.99,
+      "UK04": 4791.99,
+      "UK08": 5175.99,
+      "UK10": 5752.0,
+      "SK01": 4487.99,
+      "PK25": 4256.01
+    }
+  },
+  "EDN 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/1931e-fddb8-1d4d7_Master?v=102ed9bd",
+    "variante": {
+      "CK02": 3699.99,
+      "CK04": 3791.99,
+      "CK06": 3923.98,
+      "FK04": 3923.98,
+      "FK06": 4236.02,
+      "FK08": 4460.01,
+      "MK04": 4236.02,
+      "MK06": 4460.01,
+      "MK08": 4728.0,
+      "MK10": 5216.02,
+      "PK06": 5039.99,
+      "PK08": 5307.98,
+      "SK06": 5260.02,
+      "SK08": 5576.02,
+      "UK08": 6019.99,
+      "UK10": 6688.01
+    }
+  },
+  "EDQ 1000L": {
+    "descriere": "RAMA DE ETANSARE CU BFX, INV. PREFALTUITA",
+    "imagine": "https://contenthub.velux.com/api/public/content/490d6-9ce62-93481_Master?v=98111c93",
+    "variante": {
+      "CK02": 2651.98,
+      "CK04": 2716.01,
+      "CK06": 2811.99,
+      "FK04": 2811.99,
+      "FK06": 3035.99,
+      "FK08": 3196.0,
+      "MK04": 3035.99,
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "MK10": 3740.01,
+      "MK12": 3804.0,
+      "PK04": 3419.99,
+      "PK06": 3612.0,
+      "PK08": 3804.0,
+      "PK10": 3932.02,
+      "SK06": 3772.01,
+      "SK08": 3996.0,
+      "SK10": 4156.01,
+      "UK04": 3996.0,
+      "UK08": 4316.02,
+      "UK10": 4791.99
+    }
+  },
+  "EDQ 2000L": {
+    "descriere": "RAMA DE ETANSARE CU BDX, INV. PREFALTUITA",
+    "imagine": "https://contenthub.velux.com/api/public/content/0a6b0-38e79-904bd_Master?v=b9576788",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EDT 1000": {
+    "descriere": "RAMA DE ETANSARE CU BFX",
+    "imagine": "https://contenthub.velux.com/api/public/content/f8f00-e3ed2-f7413_Master?v=5b4928c8",
+    "variante": {
+      "CK02": 2651.98,
+      "CK04": 2716.01,
+      "CK06": 2811.99,
+      "FK04": 2811.99,
+      "FK06": 3035.99,
+      "FK08": 3196.0,
+      "MK04": 3035.99,
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "MK10": 3740.01,
+      "MK12": 3804.0,
+      "PK04": 3419.99,
+      "PK06": 3612.0,
+      "PK08": 3804.0,
+      "PK10": 3932.02,
+      "SK06": 3772.01,
+      "SK08": 3996.0,
+      "SK10": 4156.01,
+      "UK04": 3996.0,
+      "UK08": 4316.02,
+      "UK10": 4791.99
+    }
+  },
+  "EDT 2000": {
+    "descriere": "RAMA DE ETANSARE CU BDX",
+    "imagine": "https://contenthub.velux.com/api/public/content/7d69b-adc83-1043d_Master?v=bc53f46f",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKL 2021M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/734d0-73f8d-2241e_Master?v=080ad331",
+    "variante": {
+      "CK01": 6168.0,
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "MK12": 8848.0,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9288.01,
+      "SK10": 9663.98,
+      "UK04": 9288.01,
+      "UK08": 10032.01,
+      "UK10": 11151.99,
+      "UK12": 11888.01
+    }
+  },
+  "EKL 2121M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/734d0-73f8d-2241e_Master?v=080ad331",
+    "variante": {
+      "CK02": 12336.0,
+      "CK04": 12632.01,
+      "CK06": 13080.0,
+      "FK04": 13080.0,
+      "FK06": 14120.02,
+      "FK08": 14863.98,
+      "MK04": 14120.02,
+      "MK06": 14863.98,
+      "MK08": 15752.02,
+      "MK10": 17392.01,
+      "PK04": 15904.0,
+      "PK06": 16799.98,
+      "PK08": 17688.02,
+      "PK10": 18280.0,
+      "PK25": 16495.98,
+      "SK06": 17536.0,
+      "SK08": 18584.0,
+      "SK10": 19320.02,
+      "UK04": 18584.0,
+      "UK08": 20063.98,
+      "UK10": 22295.99
+    }
+  },
+  "EKL 2021MS": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/20b6a-37680-28473_Master?v=3ad91766",
+    "variante": {
+      "CK01": 6168.0,
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "MK12": 8848.0,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9288.01,
+      "SK10": 9663.98,
+      "UK04": 9288.01,
+      "UK08": 10032.01,
+      "UK10": 11151.99
+    }
+  },
+  "EKL 2001M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/a5dcd-159d6-22455_Master?v=ea54e89f",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKL 2101M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/a5dcd-159d6-22455_Master?v=ea54e89f",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2301M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/a5dcd-159d6-22455_Master?v=ea54e89f",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/eac1f-5225d-a9448_Master?v=40ecb9c2",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKL 2102M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/eac1f-5225d-a9448_Master?v=40ecb9c2",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2302M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/eac1f-5225d-a9448_Master?v=40ecb9c2",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2003M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/6de8f-e69b4-8f450_Master?v=a024cba2",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKL 2103M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/6de8f-e69b4-8f450_Master?v=a024cba2",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2303M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/6de8f-e69b4-8f450_Master?v=a024cba2",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2004ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKL 2004MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKL 2104ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2104MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2304ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2304MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/e936a-1e985-14482_Master?v=355de71b",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2006ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKL 2006MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKL 2106ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2106MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2306ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2306MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/07337-3a2f7-7a4b2_Master?v=19f81950",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2007ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKL 2007MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKL 2107ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2107MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKL 2307ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2307MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/4d723-8099a-064b5_Master?v=dc57a602",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKL 2007MJS": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/aad65-864e2-8f429_Master?v=dc125e69",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKS 2001M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKS 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKS 2003M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKS 2004ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKS 2004MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKS 2006ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKS 2006MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKS 2007ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKS 2007MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKS 2021M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "SK06": 8768.0,
+      "SK08": 9288.01,
+      "SK10": 9663.98,
+      "UK04": 9288.01,
+      "UK08": 10032.01,
+      "UK10": 11151.99,
+      "UK12": 11888.01
+    }
+  },
+  "EKW 1002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BFX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/c909b-d2be9-4b4f5_Master?v=4c44cbf0",
+    "variante": {
+      "MK06": 3196.0,
+      "MK08": 3388.0,
+      "SK06": 3772.01
+    }
+  },
+  "EKW 1021M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BFX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/ec3aa-aceea-7e432_Master?v=51bea111",
+    "variante": {
+      "CK02": 5304.01,
+      "CK04": 5431.98,
+      "FK06": 6072.02,
+      "FK08": 6391.99,
+      "MK04": 6072.02,
+      "MK06": 6391.99,
+      "MK08": 6776.0,
+      "PK06": 7223.99,
+      "PK08": 7608.0,
+      "PK10": 7863.98,
+      "SK06": 7544.01,
+      "SK08": 7992.0,
+      "SK10": 8312.02,
+      "UK08": 8631.99
+    }
+  },
+  "EKW 2021M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d498-a0d5a-0f48e_Master?v=c628e0f6",
+    "variante": {
+      "CK01": 6168.0,
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "MK12": 8848.0,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "PK25": 8247.99,
+      "SK01": 8695.98,
+      "SK06": 8768.0,
+      "SK08": 9288.01,
+      "SK10": 9663.98,
+      "SK12": 10032.01,
+      "UK04": 9288.01,
+      "UK08": 10032.01,
+      "UK10": 11151.99,
+      "UK12": 11888.01
+    }
+  },
+  "EKW 2121M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/8d498-a0d5a-0f48e_Master?v=c628e0f6",
+    "variante": {
+      "CK02": 12336.0,
+      "CK04": 12632.01,
+      "CK06": 13080.0,
+      "FK04": 13080.0,
+      "FK06": 14120.02,
+      "FK08": 14863.98,
+      "MK04": 14120.02,
+      "MK06": 14863.98,
+      "MK08": 15752.02,
+      "MK10": 17392.01,
+      "PK04": 15904.0,
+      "PK06": 16799.98,
+      "PK08": 17688.02,
+      "PK10": 18280.0,
+      "PK25": 16495.98,
+      "SK06": 17536.0,
+      "SK08": 18584.0,
+      "SK10": 19320.02,
+      "UK04": 18584.0,
+      "UK08": 20063.98,
+      "UK10": 22295.99
+    }
+  },
+  "EKW 2021MS": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/a109d-011f8-1747f_Master?v=2691bfae",
+    "variante": {
+      "CK01": 6168.0,
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "MK12": 8848.0,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "PK25": 8247.99,
+      "SK01": 8695.98,
+      "SK06": 8768.0,
+      "SK08": 9288.01,
+      "SK10": 9663.98,
+      "UK04": 9288.01,
+      "UK08": 10032.01,
+      "UK10": 11151.99
+    }
+  },
+  "EKW 2001M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/baabb-1941f-0a43d_Master?v=37cc6696",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKW 2101M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/baabb-1941f-0a43d_Master?v=37cc6696",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2301M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/baabb-1941f-0a43d_Master?v=37cc6696",
+    "variante": {
+      "CK01": 4935.98,
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "MK12": 7075.98,
+      "PK04": 6360.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "PK25": 6600.02,
+      "SK01": 6956.0,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "SK12": 8028.01,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/487a5-e034f-df494_Master?v=a2996ddc",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKW 2102M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/487a5-e034f-df494_Master?v=a2996ddc",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2302M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/487a5-e034f-df494_Master?v=a2996ddc",
+    "variante": {
+      "CK01": 4935.98,
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "MK12": 7075.98,
+      "PK04": 6360.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "PK25": 6600.02,
+      "SK01": 6956.0,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "SK12": 8028.01,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2003M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/2bee5-7f2e4-bf41e_Master?v=5a3087b5",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0
+    }
+  },
+  "EKW 2103M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/2bee5-7f2e4-bf41e_Master?v=5a3087b5",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2303M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/2bee5-7f2e4-bf41e_Master?v=5a3087b5",
+    "variante": {
+      "CK01": 4935.98,
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "MK12": 7075.98,
+      "PK04": 6360.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "PK25": 6600.02,
+      "SK01": 6956.0,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "SK12": 8028.01,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2004ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0
+    }
+  },
+  "EKW 2004MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKW 2104ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2104MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2304ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2304MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/e00d6-daa6e-714a8_Master?v=5a5f3021",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2006ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0
+    }
+  },
+  "EKW 2006MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01
+    }
+  },
+  "EKW 2106ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2106MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2306ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2306MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/b3c92-b2ea9-f24c0_Master?v=3f8446a0",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2007ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "PK25": 4124.02,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0
+    }
+  },
+  "EKW 2007MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02,
+      "UK12": 5944.0,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01
+    }
+  },
+  "EKW 2107ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK04": 7952.02,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "PK25": 8247.99,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2107MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Cu",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6316.01,
+      "CK06": 6540.0,
+      "FK04": 6540.0,
+      "FK06": 7060.01,
+      "FK08": 7432.01,
+      "MK04": 7060.01,
+      "MK06": 7432.01,
+      "MK08": 7875.99,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8843.99,
+      "PK10": 9140.0,
+      "SK06": 8768.0,
+      "SK08": 9291.98,
+      "SK10": 9660.01,
+      "UK04": 9291.98,
+      "UK08": 10032.01,
+      "UK10": 11148.02
+    }
+  },
+  "EKW 2307ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2307MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Zn",
+    "imagine": "https://contenthub.velux.com/api/public/content/62856-ca96c-ca451_Master?v=c8a84377",
+    "variante": {
+      "CK02": 4935.98,
+      "CK04": 5051.99,
+      "CK06": 5231.99,
+      "FK04": 5231.99,
+      "FK06": 5647.99,
+      "FK08": 5944.0,
+      "MK04": 5647.99,
+      "MK06": 5944.0,
+      "MK08": 6304.0,
+      "MK10": 6956.0,
+      "PK06": 6720.0,
+      "PK08": 7075.98,
+      "PK10": 7311.98,
+      "SK06": 7016.02,
+      "SK08": 7432.01,
+      "SK10": 7727.98,
+      "UK04": 7432.01,
+      "UK08": 8028.01,
+      "UK10": 8920.02
+    }
+  },
+  "EKW 2007MJS": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "https://contenthub.velux.com/api/public/content/91293-1b40a-3b4b9_Master?v=ba07bc1f",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKB 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "FK08": 3716.01,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK10": 4572.01
+    }
+  },
+  "EKB 2004ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "PK06": 4200.01
+    }
+  },
+  "EKB 2006ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "PK06": 4200.01
+    }
+  },
+  "EKB 2007ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "MK08": 3940.0,
+      "PK06": 4200.01
+    }
+  },
+  "EKB 2021M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 6168.0,
+      "CK04": 6320.02,
+      "CK06": 6544.02,
+      "FK04": 6544.02,
+      "FK06": 7063.98,
+      "FK08": 7432.01,
+      "MK04": 7063.98,
+      "MK06": 7432.01,
+      "MK08": 7880.0,
+      "MK10": 8695.98,
+      "PK06": 8400.01,
+      "PK08": 8848.0,
+      "PK10": 9144.02,
+      "SK06": 8768.0,
+      "SK08": 9288.01
+    }
+  },
+  "EKT 2001M": {
+    "descriere": "RAMA DE ETANSARE COMBI",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "UK08": 5015.98
+    }
+  },
+  "EKT 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "UK08": 5015.98
+    }
+  },
+  "EKT 2003M": {
+    "descriere": "RAMA DE ETANSARE COMBI",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "UK08": 5015.98
+    }
+  },
+  "EKQ 2001M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2002M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2003M": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2004ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2004MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2006ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "SK12": 5015.98,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2006MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2007ME": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "EKQ 2007MJ": {
+    "descriere": "RAMA DE ETANSARE COMBI CU BDX, Al",
+    "imagine": "",
+    "variante": {
+      "CK01": 3084.0,
+      "CK02": 3084.0,
+      "CK04": 3159.99,
+      "CK06": 3271.99,
+      "FK04": 3271.99,
+      "FK06": 3531.99,
+      "FK08": 3716.01,
+      "MK04": 3531.99,
+      "MK06": 3716.01,
+      "MK08": 3940.0,
+      "MK10": 4348.01,
+      "MK12": 4424.0,
+      "PK04": 3976.01,
+      "PK06": 4200.01,
+      "PK08": 4424.0,
+      "PK10": 4572.01,
+      "SK01": 4348.01,
+      "SK06": 4384.02,
+      "SK08": 4643.98,
+      "SK10": 4832.01,
+      "UK04": 4643.98,
+      "UK08": 5015.98,
+      "UK10": 5576.02
+    }
+  },
+  "BBX 0000": {
+    "descriere": "FOLIE BARIERA DE VAPORI",
+    "imagine": "https://contenthub.velux.com/api/public/content/6107f-97e16-25443_Master?v=0d0feb09",
+    "variante": {
+      "CK01": 771.98,
+      "CK02": 771.98,
+      "CK04": 788.0,
+      "CK06": 816.02,
+      "FK04": 816.02,
+      "FK06": 883.98,
+      "FK08": 928.02,
+      "MK04": 883.98,
+      "MK06": 928.02,
+      "MK08": 984.02,
+      "MK10": 1087.98,
+      "MK12": 1104.0,
+      "PK04": 996.02,
+      "PK06": 1048.01,
+      "PK08": 1104.0,
+      "PK10": 1143.98,
+      "PK25": 1031.98,
+      "SK01": 1087.98,
+      "SK06": 1096.02,
+      "SK08": 1160.0,
+      "SK10": 1208.02,
+      "UK04": 1160.0,
+      "UK08": 1255.98,
+      "UK10": 1391.98,
+      "FFKF06": 776.0,
+      "FFKF08": 776.0,
+      "060060": 887.99,
+      "060090": 939.98,
+      "080080": 948.01,
+      "090090": 987.99,
+      "090120": 1031.98,
+      "100100": 1019.98,
+      "100150": 1184.01,
+      "120120": 1143.98,
+      "150150": 1388.02,
+      "200100": 1459.99,
+      "WK34": 928.02
+    }
+  },
+  "BDX 0000F": {
+    "descriere": "KIT DE IZOLARE, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/97977-22039-2c492_Master?v=4f0aef76",
+    "variante": {
+      "PK04": 1987.98
+    }
+  },
+  "BDX 2000F": {
+    "descriere": "KIT DE IZOLARE, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/aab16-d4d26-1046b_Master?v=a098f111",
+    "variante": {
+      "CK02": 1544.01,
+      "CK04": 1580.02,
+      "CK06": 1636.02,
+      "FK04": 1636.02,
+      "FK06": 1763.99,
+      "FK08": 1860.01,
+      "MK04": 1763.99,
+      "MK06": 1860.01,
+      "MK08": 1967.99,
+      "MK10": 2172.0,
+      "PK06": 2099.98,
+      "PK08": 2211.98,
+      "SK06": 2191.99,
+      "SK08": 2324.02,
+      "UK08": 2507.99
+    }
+  },
+  "BDX 2000": {
+    "descriere": "KIT DE IZOLARE",
+    "imagine": "https://contenthub.velux.com/api/public/content/96aef-0b08d-b541f_Master?v=394c460b",
+    "variante": {
+      "BK04": 1420.01,
+      "CK01": 1388.02,
+      "CK02": 1388.02,
+      "CK04": 1420.01,
+      "CK06": 1471.99,
+      "FK04": 1471.99,
+      "FK06": 1588.0,
+      "FK08": 1671.98,
+      "MK04": 1588.0,
+      "MK06": 1671.98,
+      "MK08": 1772.02,
+      "MK10": 1955.99,
+      "MK12": 1987.98,
+      "PK04": 1787.99,
+      "PK06": 1887.99,
+      "PK08": 1987.98,
+      "PK10": 2055.98,
+      "PK25": 1855.99,
+      "SK01": 1955.99,
+      "SK06": 1972.01,
+      "SK08": 2091.99,
+      "SK10": 2172.0,
+      "UK04": 2091.99,
+      "UK08": 2256.02,
+      "UK10": 2507.99,
+      "WK34": 968.0
+    }
+  },
+  "BDX 4021B": {
+    "descriere": "KIT DE IZOLARE PENTRU FERESTRE ALATURATE",
+    "imagine": "https://contenthub.velux.com/api/public/content/596ce-1f5e5-5f45c_Master?v=ecce43d9",
+    "variante": {
+      "MK06": 5204.02
+    }
+  },
+  "BFX 0000": {
+    "descriere": "FOLIE HIDROIZOLANTA",
+    "imagine": "https://contenthub.velux.com/api/public/content/a552f-3798f-1a465_Master?v=b664cb4a",
+    "variante": {
+      "WK34": 928.02
+    }
+  },
+  "BFX 1000F": {
+    "descriere": "FOLIE HIDROIZOLANTA, ENERGY",
+    "imagine": "https://contenthub.velux.com/api/public/content/a552f-3798f-1a465_Master?v=b664cb4a",
+    "variante": {
+      "CK02": 924.0,
+      "CK04": 948.01,
+      "CK06": 980.0,
+      "FK04": 980.0,
+      "FK06": 1060.01,
+      "FK08": 1116.01,
+      "MK04": 1060.01,
+      "MK06": 1116.01,
+      "MK08": 1179.99,
+      "MK10": 1303.99,
+      "PK04": 1192.0,
+      "PK06": 1260.0,
+      "PK08": 1328.0,
+      "PK10": 1371.99,
+      "SK06": 1316.0,
+      "SK08": 1391.98,
+      "UK04": 1391.98,
+      "UK08": 1503.98,
+      "UK10": 1671.98
+    }
+  },
+  "BFX 1000": {
+    "descriere": "FOLIE HIDROIZOLANTA",
+    "imagine": "https://contenthub.velux.com/api/public/content/a552f-3798f-1a465_Master?v=b664cb4a",
+    "variante": {
+      "CK02": 771.98,
+      "CK04": 788.0,
+      "CK06": 816.02,
+      "FK04": 816.02,
+      "FK06": 883.98,
+      "FK08": 928.02,
+      "MK04": 883.98,
+      "MK06": 928.02,
+      "MK08": 984.02,
+      "MK10": 1087.98,
+      "MK12": 1104.0,
+      "PK04": 996.02,
+      "PK06": 1048.01,
+      "PK08": 1104.0,
+      "PK10": 1143.98,
+      "PK25": 1031.98,
+      "SK01": 1087.98,
+      "SK06": 1096.02,
+      "SK08": 1160.0,
+      "SK10": 1208.02,
+      "UK04": 1160.0,
+      "UK08": 1255.98,
+      "UK10": 1391.98,
+      "0K14": 1515.98
+    }
+  },
+  "EDJ S00J01": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK02": 4193.33,
+      "CK04": 4299.08,
+      "FK06": 4819.67,
+      "FK08": 5084.03,
+      "MK04": 4819.67,
+      "MK06": 5084.03,
+      "MK08": 5397.23,
+      "MK10": 5970.67,
+      "PK06": 5759.21,
+      "PK08": 6076.43,
+      "UK10": 7695.21
+    }
+  },
+  "EDQ S00Q01": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK02": 3884.2,
+      "CK04": 4014.34,
+      "CK06": 4091.64,
+      "FK04": 4282.77,
+      "FK06": 4335.67,
+      "FK08": 4490.21,
+      "MK04": 4364.13,
+      "MK06": 4412.92,
+      "MK08": 4514.61,
+      "MK10": 4591.9,
+      "PK04": 4514.61,
+      "PK06": 4591.9,
+      "PK08": 4750.51,
+      "PK10": 4774.9,
+      "SK06": 4913.23,
+      "SK08": 5047.44,
+      "SK10": 5071.84,
+      "UK04": 5132.82,
+      "UK08": 5498.87,
+      "UK10": 6149.66
+    }
+  },
+  "EDS S00S01": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK02": 3595.44,
+      "CK04": 3684.89,
+      "CK06": 3823.21,
+      "FK04": 3823.21,
+      "FK06": 4136.36,
+      "FK08": 4364.13,
+      "MK04": 4136.36,
+      "MK06": 4364.13,
+      "MK08": 4632.56,
+      "MK10": 5128.75,
+      "PK06": 4945.75,
+      "PK08": 5218.25,
+      "PK10": 5397.23,
+      "SK06": 5169.46,
+      "SK08": 5490.74,
+      "SK10": 5714.44,
+      "UK08": 5938.15,
+      "UK10": 6613.33
+    }
+  },
+  "EDW S00W01": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK02": 3595.44,
+      "CK04": 3684.89,
+      "CK06": 3823.21,
+      "FK04": 3823.21,
+      "FK06": 4136.36,
+      "FK08": 4364.13,
+      "MK04": 4136.36,
+      "MK06": 4364.13,
+      "MK08": 4632.56,
+      "MK10": 5128.75,
+      "MK12": 5218.25,
+      "PK04": 4677.33,
+      "PK06": 4945.75,
+      "PK08": 5218.25,
+      "PK10": 5397.23,
+      "SK06": 5169.46,
+      "SK08": 5490.74,
+      "SK10": 5714.44,
+      "UK04": 5490.74,
+      "UK08": 5938.15,
+      "UK10": 6613.33
+    }
+  },
+  "TLF S00C01": {
+    "descriere": "PACHET TUNEL + KIT DE LUMINA",
+    "imagine": "",
+    "variante": {
+      "0K14": 10607.34
+    }
+  },
+  "TLR S00C01": {
+    "descriere": "PACHET TUNEL + KIT DE LUMINA",
+    "imagine": "",
+    "variante": {
+      "0K14": 13007.02
+    }
+  },
+  "TWF S00W01": {
+    "descriere": "PACHET TUNEL + KIT DE LUMINA",
+    "imagine": "",
+    "variante": {
+      "0K14": 10607.34
+    }
+  },
+  "TWR S00W01": {
+    "descriere": "PACHET TUNEL + KIT DE LUMINA",
+    "imagine": "",
+    "variante": {
+      "0K14": 13007.02
+    }
+  },
+  "EDT S00T01": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK01": 3595.44,
+      "CK02": 3595.44,
+      "CK04": 3684.89,
+      "CK06": 3823.21,
+      "FK04": 3823.21,
+      "FK06": 4136.36,
+      "FK08": 4364.13,
+      "MK04": 4136.36,
+      "MK06": 4364.13,
+      "MK08": 4632.56,
+      "MK10": 5128.75,
+      "MK12": 5218.25,
+      "PK04": 4677.33,
+      "PK06": 4945.75,
+      "PK08": 5218.25,
+      "PK10": 5397.23,
+      "SK06": 5169.46,
+      "SK08": 5490.74,
+      "SK10": 5714.44,
+      "UK04": 5490.74,
+      "UK08": 5938.15,
+      "UK10": 6613.33
+    }
+  },
+  "EDQ S00Q02": {
+    "descriere": "PACHET DE MONTAJ CU BBX",
+    "imagine": "",
+    "variante": {
+      "CK02": 3595.44,
+      "CK04": 3684.89,
+      "CK06": 3823.21,
+      "FK04": 3823.21,
+      "FK06": 4136.36,
+      "FK08": 4364.13,
+      "MK04": 4136.36,
+      "MK06": 4364.13,
+      "MK08": 4632.56,
+      "MK10": 5128.75,
+      "MK12": 5218.25,
+      "PK04": 4677.33,
+      "PK06": 4945.75,
+      "PK08": 5218.25,
+      "PK10": 5397.23,
+      "SK06": 5169.46,
+      "SK08": 5490.74,
+      "SK10": 5714.44,
+      "UK04": 5490.74,
+      "UK08": 5938.15,
+      "UK10": 6613.33
+    }
+  }
+}

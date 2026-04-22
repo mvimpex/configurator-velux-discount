@@ -1,0 +1,196 @@
+{
+  "KLF": {
+    "descriere": "INTERFATA",
+    "imagine": "https://contenthub.velux.com/api/public/content/2f685-dde82-3d4b7_Master?v=db4e976e",
+    "variante": {
+      "Standard": 1284.0,
+      "150": 4251.99
+    }
+  },
+  "KIX": {
+    "descriere": "VELUX ACTIVE - SISTEM DE CONTROL CLIMATIC",
+    "imagine": "https://contenthub.velux.com/api/public/content/a3c82-2837f-824ab_Master?v=13322c2b",
+    "variante": {
+      "++": 5272.02
+    }
+  },
+  "KLA": {
+    "descriere": "VELUX ACTIVE - SENZOR CLIMAT INTERIOR",
+    "imagine": "https://contenthub.velux.com/api/public/content/0f0c3-54fba-a9488_Master?v=b6671cb7",
+    "variante": {
+      "++": 2356.02
+    }
+  },
+  "ZZZ": {
+    "descriere": "MANER GZL GLL GLU",
+    "imagine": "https://contenthub.velux.com/api/public/content/6d0b2-a7c13-8b4d8_Master?v=3e9e1f77",
+    "variante": {
+      "++": 4704.48,
+      "Standard": 1780.01
+    }
+  },
+  "ZOZ": {
+    "descriere": "INCUIETOARE",
+    "imagine": "https://contenthub.velux.com/api/public/content/102dc-194da-d24db_Master?v=e92f9dc5",
+    "variante": {
+      "Standard": 1004.01,
+      "+++": 1004.01,
+      "++": 748.02
+    }
+  },
+  "ZOZ S21": {
+    "descriere": "KIT MOTOR+PANOU SOLAR V21",
+    "imagine": "",
+    "variante": {
+      "++": 3292.02
+    }
+  },
+  "ZOZ S22": {
+    "descriere": "CHIT MOTOR + PANOU SOLAR SSL V22",
+    "imagine": "",
+    "variante": {
+      "221": 3091.99
+    }
+  },
+  "ZOZ 245": {
+    "descriere": "ADAPTOR PENTRU SSL/SML pe GBL",
+    "imagine": "",
+    "variante": {
+      "PK00": 1544.01,
+      "SK00": 1544.01
+    }
+  },
+  "ZZZ 060060": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "060060": 1663.99
+    }
+  },
+  "ZZZ 060090": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "060090": 1344.02
+    }
+  },
+  "ZZZ 080080": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "080080": 1780.01
+    }
+  },
+  "ZZZ 090090": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "090090": 1855.99
+    }
+  },
+  "ZZZ 090120": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "090120": 1471.99
+    }
+  },
+  "ZZZ 100100": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "100100": 1911.99
+    }
+  },
+  "ZZZ 100150": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "100150": 1692.02
+    }
+  },
+  "ZZZ 120120": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "120120": 2140.01
+    }
+  },
+  "ZZZ 150150": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CVP/CFP/CXP",
+    "imagine": "https://contenthub.velux.com/api/public/content/0942d-5fb98-8b4bc_Master?v=32dd6589",
+    "variante": {
+      "150150": 2600.0
+    }
+  },
+  "ZZZ 090060": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "090060": 1760.02
+    }
+  },
+  "ZZZ 120090": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "120090": 1931.98
+    }
+  },
+  "ZZZ 150100": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "150100": 2215.99
+    }
+  },
+  "ZZZ 200100": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "200100": 2087.98
+    }
+  },
+  "ZZZ 150080": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "150080": 1532.01
+    }
+  },
+  "ZZZ 150120": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "150120": 1824.0
+    }
+  },
+  "ZZZ 200060": {
+    "descriere": "KIT DE FIXARE A MEMBRANEI LA CV/FU",
+    "imagine": "https://contenthub.velux.com/api/public/content/0152c-8155a-5d417_Master?v=754516a0",
+    "variante": {
+      "200060": 1751.98
+    }
+  },
+  "ZCT": {
+    "descriere": "TIJA DE COMANDA, 108-188 cm",
+    "imagine": "https://contenthub.velux.com/api/public/content/6421d-49ecf-c840a_Master?v=ca24bdd2",
+    "variante": {
+      "200": 759.98
+    }
+  },
+  "ZCZ": {
+    "descriere": "TIJA DESCHIDERE FEREASTRA CU MANER JOS",
+    "imagine": "https://contenthub.velux.com/api/public/content/0f1be-c3f74-03441_Master?v=f338e2d2",
+    "variante": {
+      "++": 647.98
+    }
+  },
+  "KLA WW": {
+    "descriere": "SENZOR DE PLOAIE",
+    "imagine": "https://contenthub.velux.com/api/public/content/7f2e2-f7d2a-b846c_Master?v=6777967f",
+    "variante": {
+      "Standard": 795.99
+    }
+  }
+}

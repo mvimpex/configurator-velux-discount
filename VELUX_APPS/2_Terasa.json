@@ -1,0 +1,393 @@
+{
+  "ISD 0000": {
+    "descriere": "CUPOLA ACRILICA TRANSPARENTA",
+    "imagine": "https://contenthub.velux.com/api/public/content/51428-34854-2c4d9_Master?v=30492e7d",
+    "variante": {
+      "060060": 5956.01,
+      "060090": 6567.98,
+      "080080": 7092.0,
+      "090090": 7880.0,
+      "090120": 9108.01,
+      "100100": 8756.0,
+      "100150": 11555.98,
+      "120120": 11384.02,
+      "150150": 15760.01
+    }
+  },
+  "ISD 0010": {
+    "descriere": "CUPOLA TRANSPARENTA PENTRU CVP / CFP",
+    "imagine": "https://contenthub.velux.com/api/public/content/51428-34854-2c4d9_Master?v=30492e7d",
+    "variante": {
+      "060060": 6432.02,
+      "060090": 7092.0,
+      "080080": 7659.98,
+      "090090": 8512.01,
+      "090120": 9835.99,
+      "100100": 9456.0,
+      "100150": 12484.01,
+      "120120": 12292.0,
+      "150150": 17020.01
+    }
+  },
+  "ISD 0100": {
+    "descriere": "CUPOLA ACRILICA OPACA",
+    "imagine": "https://contenthub.velux.com/api/public/content/b4a7b-00805-1340a_Master?v=5a76cd92",
+    "variante": {
+      "100100": 8756.0,
+      "060060": 5956.01,
+      "060090": 6567.98,
+      "080080": 7092.0,
+      "090090": 7880.0,
+      "090120": 9108.01,
+      "100150": 11555.98,
+      "120120": 11384.02,
+      "150150": 15760.01
+    }
+  },
+  "ISD 0110": {
+    "descriere": "CUPOLA OPACA, POLICARBONAT",
+    "imagine": "https://contenthub.velux.com/api/public/content/b4a7b-00805-1340a_Master?v=5a76cd92",
+    "variante": {
+      "060060": 6432.02,
+      "060090": 7092.0,
+      "080080": 7659.98,
+      "090090": 8512.01,
+      "090120": 9835.99,
+      "100100": 9456.0,
+      "100150": 12484.01,
+      "120120": 12292.0,
+      "150150": 17020.01
+    }
+  },
+  "ISU 1093": {
+    "descriere": "PROTECTIE DIN STICLA CURBATA",
+    "imagine": "https://contenthub.velux.com/api/public/content/c1671-2b392-07425_Master?v=990e48cf",
+    "variante": {
+      "060060": 14768.0,
+      "090060": 16288.0,
+      "080080": 17587.98,
+      "090090": 19544.02,
+      "100100": 21716.02,
+      "120090": 22584.02,
+      "120120": 28227.99,
+      "150100": 28663.98,
+      "150150": 39087.99,
+      "200100": 41040.01,
+      "150080": 26276.02,
+      "150120": 33660.02,
+      "200060": 29748.0
+    }
+  },
+  "ISU 2093": {
+    "descriere": "PROTECTIE DIN STICLA PLATA",
+    "imagine": "https://contenthub.velux.com/api/public/content/e1adb-6b27a-534e4_Master?v=65574da8",
+    "variante": {
+      "060060": 10655.99,
+      "090060": 11756.02,
+      "080080": 12696.0,
+      "090090": 14104.0,
+      "100100": 15672.02,
+      "120090": 16300.01,
+      "120120": 20376.01,
+      "150100": 20688.0,
+      "150150": 28212.02,
+      "200100": 29623.99,
+      "150080": 18963.99,
+      "150120": 24292.01,
+      "200060": 21471.98
+    }
+  },
+  "CVP 0073U": {
+    "descriere": "FEREASTRA MANUALA – DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/e7855-aeffc-af44b_Master?v=144a9075",
+    "variante": {
+      "060060": 12632.01,
+      "060090": 13580.02,
+      "080080": 14388.01,
+      "090090": 15607.98,
+      "090120": 17499.99,
+      "100100": 16959.99,
+      "100150": 20344.02,
+      "120120": 19936.01
+    }
+  },
+  "CVP 0673QV": {
+    "descriere": "FEREASTRA ELECTRICA - DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/1c4d1-7d67c-e44e2_Master?v=fdda8e1c",
+    "variante": {
+      "060060": 27060.0,
+      "060090": 28008.02,
+      "080080": 28816.0,
+      "090090": 30036.02,
+      "090120": 31927.98,
+      "100100": 31387.98,
+      "100150": 34772.01,
+      "120120": 34364.0,
+      "150150": 40043.98
+    }
+  },
+  "CVP 0573": {
+    "descriere": "FEREASTRA ELECTRICA - DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/1c4d1-7d67c-e44e2_Master?v=fdda8e1c",
+    "variante": {
+      "060060": 18535.99,
+      "060090": 19484.0,
+      "080080": 20291.99,
+      "090090": 21512.01,
+      "090120": 23404.01,
+      "100100": 22864.01,
+      "100150": 26248.0,
+      "120120": 25839.99,
+      "150150": 31520.02
+    }
+  },
+  "CFP 0073": {
+    "descriere": "FEREASTRA FIXA - DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/fc9f9-ebae3-5347e_Master?v=c53acc8b",
+    "variante": {
+      "060060": 5888.01,
+      "060090": 6491.99,
+      "080080": 7012.0,
+      "090090": 7792.01,
+      "090120": 9004.0,
+      "100100": 8656.0,
+      "100150": 10823.98,
+      "120120": 10563.98,
+      "150150": 14199.98
+    }
+  },
+  "CFP 0073QV": {
+    "descriere": "FEREASTRA FIXA-DOM, GEAM ANTI-EFRACTIE",
+    "imagine": "https://contenthub.velux.com/api/public/content/fc9f9-ebae3-5347e_Master?v=c53acc8b",
+    "variante": {
+      "060060": 9200.02,
+      "060090": 10147.98,
+      "080080": 10956.02,
+      "090090": 12175.99,
+      "090120": 14067.99,
+      "100100": 13527.99,
+      "100150": 16911.98,
+      "120120": 16504.01,
+      "150150": 22183.99
+    }
+  },
+  "CFP 0063QV": {
+    "descriere": "FEREASTRA FIXA - DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/fc9f9-ebae3-5347e_Master?v=c53acc8b",
+    "variante": {
+      "150150": 22183.99
+    }
+  },
+  "CSP 1073Q": {
+    "descriere": "FEREASTRA EVACUARE FUM - DOM",
+    "imagine": "https://contenthub.velux.com/api/public/content/7caa9-bfa86-f94e1_Master?v=4062d724",
+    "variante": {
+      "100100": 49375.99,
+      "120120": 60240.0
+    }
+  },
+  "CXP 0473Q": {
+    "descriere": "FEREASTRA DE IESIRE PE ACOPERIS TERASA",
+    "imagine": "https://contenthub.velux.com/api/public/content/a04be-8e604-e349a_Master?v=c3233578",
+    "variante": {
+      "090120": 28140.0,
+      "100100": 27055.99,
+      "120120": 33007.98
+    }
+  },
+  "CVU 0220Q": {
+    "descriere": "FEREASTRA ELECTRICA, 2 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/497dd-35b65-03466_Master?v=d3eeea62",
+    "variante": {
+      "060060": 29912.02,
+      "080080": 31844.01,
+      "090060": 30951.99,
+      "090090": 33184.01,
+      "100100": 34672.02,
+      "120090": 35268.02,
+      "120120": 37948.02,
+      "150100": 38391.99,
+      "150080": 36159.98,
+      "150120": 40772.01,
+      "150150": 44195.98,
+      "200060": 38391.99,
+      "200100": 45388.02
+    }
+  },
+  "CVU 0225Q": {
+    "descriere": "FEREASTRA ELECTRICA, 3 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/497dd-35b65-03466_Master?v=d3eeea62",
+    "variante": {
+      "060060": 32948.01,
+      "080080": 35460.02,
+      "090060": 34300.02,
+      "090090": 37204.02,
+      "100100": 39136.0,
+      "120090": 39912.0,
+      "120120": 43392.0,
+      "150100": 43971.98,
+      "150080": 41072.0,
+      "150120": 47067.98,
+      "150150": 51515.99,
+      "200060": 43971.98,
+      "200100": 53064.02
+    }
+  },
+  "CVU 0320Q": {
+    "descriere": "FEREASTRA SOLARA, 2 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/7ede6-75d85-1941f_Master?v=c999fed7",
+    "variante": {
+      "060060": 29912.02,
+      "090060": 30951.99,
+      "080080": 31844.01,
+      "090090": 33184.01,
+      "100100": 34672.02,
+      "120090": 35268.02,
+      "120120": 37948.02,
+      "150100": 38391.99,
+      "150080": 36159.98,
+      "150150": 44195.98,
+      "200100": 45388.02,
+      "150120": 40772.01,
+      "200060": 38391.99
+    }
+  },
+  "CVU 0325Q": {
+    "descriere": "FEREASTRA SOLARA, 3 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/7ede6-75d85-1941f_Master?v=c999fed7",
+    "variante": {
+      "060060": 32948.01,
+      "090060": 34300.02,
+      "080080": 35460.02,
+      "090090": 37204.02,
+      "100100": 39136.0,
+      "120090": 39912.0,
+      "120120": 43392.0,
+      "150100": 43971.98,
+      "150080": 41072.0,
+      "150150": 51515.99,
+      "200100": 53064.02,
+      "150120": 47067.98,
+      "200060": 43971.98
+    }
+  },
+  "CXU 0220U": {
+    "descriere": "FEREASTRA DE IESIRE PE ACOPERIS TERASA, 2 FOI DE STICLA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/5091d-d513d-cb4b1_Master?v=bcf84047",
+    "variante": {
+      "100100": 66964.01,
+      "120120": 81696.01,
+      "150100": 83703.98
+    }
+  },
+  "CXU 0225U": {
+    "descriere": "FEREASTRA DE IESIRE PE ACOPERIS TERASA, 3 FOI DE STICLA, PU",
+    "imagine": "https://contenthub.velux.com/api/public/content/07b93-c14ae-0b468_Master?v=416fa796",
+    "variante": {
+      "100100": 87052.0,
+      "120120": 106204.02,
+      "150100": 108815.98
+    }
+  },
+  "CFU 0020Q": {
+    "descriere": "FEREASTRA FIXA, 2 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/c6877-32db6-a8422_Master?v=6ffdd6f9",
+    "variante": {
+      "060060": 10120.0,
+      "090060": 11160.02,
+      "080080": 12051.99,
+      "090090": 13391.99,
+      "100100": 14880.0,
+      "120090": 15476.0,
+      "120120": 18156.0,
+      "150100": 18600.02,
+      "150080": 16368.01,
+      "150150": 24404.01,
+      "200100": 25596.0,
+      "150120": 20980.0,
+      "200060": 18600.02
+    }
+  },
+  "CFU 0025Q": {
+    "descriere": "FEREASTRA FIXA, 3 FOI DE STICLA",
+    "imagine": "https://contenthub.velux.com/api/public/content/c6877-32db6-a8422_Master?v=6ffdd6f9",
+    "variante": {
+      "060060": 13155.99,
+      "090060": 14508.0,
+      "080080": 15668.0,
+      "090090": 17412.0,
+      "100100": 19343.98,
+      "120090": 20119.98,
+      "120120": 23599.99,
+      "150100": 24180.01,
+      "150080": 21279.98,
+      "150150": 31724.02,
+      "200100": 33272.0,
+      "150120": 27276.01,
+      "200060": 24180.01
+    }
+  },
+  "DSU 4550WL": {
+    "descriere": "RULOU OPAC, SOLAR",
+    "imagine": "https://contenthub.velux.com/api/public/content/8aa1b-51842-9d49e_Master?v=d2bfae43",
+    "variante": {
+      "060060": 8052.02,
+      "080080": 8403.98,
+      "090060": 8228.0,
+      "090090": 8580.01,
+      "100100": 8751.98,
+      "120090": 8928.01,
+      "120120": 9103.99,
+      "150100": 9280.02,
+      "150150": 10940.0,
+      "200100": 11467.99,
+      "150080": 9016.0,
+      "150120": 9979.98,
+      "200060": 9804.0
+    }
+  },
+  "MSU 5070WL": {
+    "descriere": "RULOU EXTERIOR PARASOLAR, SOLAR",
+    "imagine": "https://contenthub.velux.com/api/public/content/23028-07c62-eb4d5_Master?v=de84a7b9",
+    "variante": {
+      "060060": 8052.02,
+      "080080": 8403.98,
+      "090060": 8228.0,
+      "090090": 8580.01,
+      "100100": 8751.98,
+      "120090": 8928.01,
+      "120120": 9103.99,
+      "150100": 9280.02,
+      "150150": 10940.0,
+      "200100": 11467.99,
+      "150080": 9016.0,
+      "150120": 9979.98,
+      "200060": 9804.0
+    }
+  },
+  "TCR S00C01": {
+    "descriere": "PACHET TUNEL + KIT DE LUMINA",
+    "imagine": "",
+    "variante": {
+      "0K14": 16488.52
+    }
+  },
+  "CXU S20001": {
+    "descriere": "SISTEM IESIRE PE ACOPERIS TERASA",
+    "imagine": "",
+    "variante": {
+      "100100": 83670.97,
+      "120120": 98097.41,
+      "150100": 100065.94
+    }
+  },
+  "CXU S20002": {
+    "descriere": "SISTEM IESIRE PE ACOPERIS TERASA",
+    "imagine": "",
+    "variante": {
+      "100100": 103344.16,
+      "120120": 122098.1,
+      "150100": 124652.36
+    }
+  }
+}
